@@ -2,10 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Create Lambda RAG Search on Internship Report</title>
-    <link>/5-workshop/5.4-backend/5.4.1-ragsearch/</link>
+    <link>//localhost:49803/5-workshop/5.4-backend/5.4.1-ragsearch/</link>
     <description>Recent content in Create Lambda RAG Search on Internship Report</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <atom:link href="/5-workshop/5.4-backend/5.4.1-ragsearch/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="//localhost:49803/5-workshop/5.4-backend/5.4.1-ragsearch/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
