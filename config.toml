@@ -1,5 +1,5 @@
-baseURL = ""
-relativeURLs = true
+baseURL = "https://manh-25.github.io/fcj-workshop-report/"
+relativeURLs = false
 canonifyURLs = true
 
 # Change the default theme to be use when building the site with Hugo
