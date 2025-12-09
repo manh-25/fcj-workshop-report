@@ -15,21 +15,21 @@
     <title>Blog 2 :: Internship Report</title>
 
     
-    <link href="https://manh-25.github.io/fcj-workshop-report/css/nucleus.css?1765291806" rel="stylesheet">
-    <link href="https://manh-25.github.io/fcj-workshop-report/css/fontawesome-all.min.css?1765291806" rel="stylesheet">
-    <link href="https://manh-25.github.io/fcj-workshop-report/css/hybrid.css?1765291806" rel="stylesheet">
-    <link href="https://manh-25.github.io/fcj-workshop-report/css/featherlight.min.css?1765291806" rel="stylesheet">
-    <link href="https://manh-25.github.io/fcj-workshop-report/css/perfect-scrollbar.min.css?1765291806" rel="stylesheet">
-    <link href="https://manh-25.github.io/fcj-workshop-report/css/auto-complete.css?1765291806" rel="stylesheet">
-    <link href="https://manh-25.github.io/fcj-workshop-report/css/atom-one-dark-reasonable.css?1765291806" rel="stylesheet">
-    <link href="https://manh-25.github.io/fcj-workshop-report/css/theme.css?1765291806" rel="stylesheet">
-    <link href="https://manh-25.github.io/fcj-workshop-report/css/hugo-theme.css?1765291806" rel="stylesheet">
+    <link href="https://manh-25.github.io/fcj-workshop-report/css/nucleus.css?1765293347" rel="stylesheet">
+    <link href="https://manh-25.github.io/fcj-workshop-report/css/fontawesome-all.min.css?1765293347" rel="stylesheet">
+    <link href="https://manh-25.github.io/fcj-workshop-report/css/hybrid.css?1765293347" rel="stylesheet">
+    <link href="https://manh-25.github.io/fcj-workshop-report/css/featherlight.min.css?1765293347" rel="stylesheet">
+    <link href="https://manh-25.github.io/fcj-workshop-report/css/perfect-scrollbar.min.css?1765293347" rel="stylesheet">
+    <link href="https://manh-25.github.io/fcj-workshop-report/css/auto-complete.css?1765293347" rel="stylesheet">
+    <link href="https://manh-25.github.io/fcj-workshop-report/css/atom-one-dark-reasonable.css?1765293347" rel="stylesheet">
+    <link href="https://manh-25.github.io/fcj-workshop-report/css/theme.css?1765293347" rel="stylesheet">
+    <link href="https://manh-25.github.io/fcj-workshop-report/css/hugo-theme.css?1765293347" rel="stylesheet">
     
-    <link href="https://manh-25.github.io/fcj-workshop-report/css/theme-workshop.css?1765291806" rel="stylesheet">
+    <link href="https://manh-25.github.io/fcj-workshop-report/css/theme-workshop.css?1765293347" rel="stylesheet">
     
     
 
-    <script src="https://manh-25.github.io/fcj-workshop-report/js/jquery-3.3.1.min.js?1765291806"></script>
+    <script src="https://manh-25.github.io/fcj-workshop-report/js/jquery-3.3.1.min.js?1765293347"></script>
 
     <style>
       :root #header + #content > #left > #rlblock_left{
@@ -88,14 +88,14 @@
     <span data-search-clear=""><i class="fas fa-times"></i></span>
 </div>
 
-<script type="text/javascript" src="https://manh-25.github.io/fcj-workshop-report/js/lunr.min.js?1765291806"></script>
-<script type="text/javascript" src="https://manh-25.github.io/fcj-workshop-report/js/auto-complete.js?1765291806"></script>
+<script type="text/javascript" src="https://manh-25.github.io/fcj-workshop-report/js/lunr.min.js?1765293347"></script>
+<script type="text/javascript" src="https://manh-25.github.io/fcj-workshop-report/js/auto-complete.js?1765293347"></script>
 <script type="text/javascript">
     
         var baseurl = "https:\/\/manh-25.github.io\/fcj-workshop-report\/\/en";
     
 </script>
-<script type="text/javascript" src="https://manh-25.github.io/fcj-workshop-report/js/search.js?1765291806"></script>
+<script type="text/javascript" src="https://manh-25.github.io/fcj-workshop-report/js/search.js?1765293347"></script>
  
   </div>
 
@@ -1093,7 +1093,7 @@
 <li><strong>On-premises HSM:</strong> You configure your on-premises HSM to securely store the root encryption keys that will be used to protect your data encryption keys.</li>
 <li><strong>External key store:</strong> You create an external key store resource in AWS KMS, which maps to your on-premises HSM through the XKS proxy.</li>
 </ul>
-<img src="https://manh-25.github.io/fcj-workshop-report/images/3-Blog/3.2-Blog2/fig-1.png" width="800">
+<p><img src="https://manh-25.github.io/fcj-workshop-report/images/3-Blog/3.2-Blog2/fig-1.png" alt="img"></p>
 <p><em>Figure 1: AWS KMS external key store trong một Dedicated Local Zone</em></p>
 <p>The workflow is as follows:</p>
 <ol>
@@ -1121,7 +1121,7 @@
 <li>Amazon Inspector agent running on AWS SSM managed instances, keeping your application data within Dedicated Local Zones.</li>
 <li>Amazon Inspector evaluates and generates <a href="https://docs.aws.amazon.com/inspector/latest/user/findings-types.html">findings</a> for detected vulnerabilities.</li>
 </ul>
-<img src="https://manh-25.github.io/fcj-workshop-report/images/3-Blog/3.2-Blog2/fig-2.png" width="1000">
+<p><img src="https://manh-25.github.io/fcj-workshop-report/images/3-Blog/3.2-Blog2/fig-2.png" alt="img"></p>
 <p><em>Figure 2: Amazon Inspector trong Dedicated Local Zones</em></p>
 <h3 id="amazon-guardduty">Amazon GuardDuty</h3>
 <p>Maintaining data sovereignty with Dedicated Local Zones doesn’t mean sacrificing advanced security capabilities. <a href="https://aws.amazon.com/guardduty/">GuardDuty</a> demonstrates how sophisticated threat detection can operate effectively while honoring strict data residency requirements.</p>
@@ -1133,12 +1133,12 @@
 <li>GuardDuty monitors EC2 instances while your data stays in Dedicated Local Zones.</li>
 <li>GuardDuty analyzes data sources from <a href="https://aws.amazon.com/cloudtrail">AWS CloudTrail</a> event logs, management events, and Amazon VPC flow logs that your AWS account captures in the Region.</li>
 </ol>
-<img src="https://manh-25.github.io/fcj-workshop-report/images/3-Blog/3.2-Blog2/fig-3.png" width="1000">
+<p><img src="https://manh-25.github.io/fcj-workshop-report/images/3-Blog/3.2-Blog2/fig-3.png" alt="img"></p>
 <p><em>Figure 3: Amazon GuardDuty trong Dedicated Local Zones</em></p>
 <h3 id="aws-certificate-manager">AWS Certificate Manager</h3>
 <p>Organizations frequently express concern about certificate management complexity when deploying applications in Dedicated Local Zones. <a href="https://docs.aws.amazon.com/acm/latest/userguide/acm-overview.html">AWS Certificate Manager (ACM)</a>, which operates in the parent Region, addresses these challenges by serving as the primary service that customers use to provision, manage, and deploy certificates for use in both public-facing and private Dedicated Local Zones workloads.</p>
 <p>ACM integrates seamlessly with ALBs in Dedicated Local Zones to manage your complete certificate lifecycle, as shown in Figure 4.</p>
-<img src="https://manh-25.github.io/fcj-workshop-report/images/3-Blog/3.2-Blog2/fig-4.png" width="1000">
+<p><img src="https://manh-25.github.io/fcj-workshop-report/images/3-Blog/3.2-Blog2/fig-4.png" alt="img"></p>
 <p><em>Figure 4: ACM trong Dedicated Local Zones</em></p>
 <p>Follow these steps to implement TLS certificates in Dedicated Local Zones:</p>
 <ol>
@@ -1159,13 +1159,13 @@
 <table>
   <thead>
       <tr>
-          <th style="text-align: left"><img src="https://manh-25.github.io/fcj-workshop-report/images/3-Blog/3.2-Blog2/author-1.png" width="200"></th>
+          <th style="text-align: left"><img src="https://manh-25.github.io/fcj-workshop-report/images/3-Blog/3.2-Blog2/author-1.png" alt="img"></th>
           <th style="text-align: left"><strong>Lakshmi VP</strong> - Lakshmi is a Solutions Architect at AWS WWPS-Canada and specializes in hybrid edge solutions—Outposts, Local Zones and Dedicated Local Zones. With over 16 years of global supporting various industries, Lakshmi is passionate about technology and practical solutions for customers. Outside work, she enjoys watching animated movies and hiking.</th>
       </tr>
   </thead>
   <tbody>
       <tr>
-          <td style="text-align: left"><img src="https://manh-25.github.io/fcj-workshop-report/images/3-Blog/3.2-Blog2/author-2.png" width="200"></td>
+          <td style="text-align: left"><img src="https://manh-25.github.io/fcj-workshop-report/images/3-Blog/3.2-Blog2/author-2.png" alt="img"></td>
           <td style="text-align: left"><strong>Enrico Liguori</strong> - Enrico is a Specialist Solutions Architect focused on networking and hybrid cloud. He works within the Worldwide Public Sector Solutions Architecture organization, where he leverages his expertise to design highly available, scalable, secure, and cost-effective networking and hybrid cloud solutions. When Enrico isn’t immersed in his professional responsibilities, he indulges in exploring the wonders of the underwater world through scuba diving.</td>
       </tr>
   </tbody>
@@ -1918,19 +1918,19 @@
     <div style="left: -1000px; overflow: scroll; position: absolute; top: -1000px; border: none; box-sizing: content-box; height: 200px; margin: 0px; padding: 0px; width: 200px;">
       <div style="border: none; box-sizing: content-box; height: 200px; margin: 0px; padding: 0px; width: 200px;"></div>
     </div>
-    <script src="https://manh-25.github.io/fcj-workshop-report/js/clipboard.min.js?1765291806"></script>
-    <script src="https://manh-25.github.io/fcj-workshop-report/js/perfect-scrollbar.min.js?1765291806"></script>
-    <script src="https://manh-25.github.io/fcj-workshop-report/js/perfect-scrollbar.jquery.min.js?1765291806"></script>
-    <script src="https://manh-25.github.io/fcj-workshop-report/js/jquery.sticky.js?1765291806"></script>
-    <script src="https://manh-25.github.io/fcj-workshop-report/js/featherlight.min.js?1765291806"></script>
-    <script src="https://manh-25.github.io/fcj-workshop-report/js/highlight.pack.js?1765291806"></script>
+    <script src="https://manh-25.github.io/fcj-workshop-report/js/clipboard.min.js?1765293347"></script>
+    <script src="https://manh-25.github.io/fcj-workshop-report/js/perfect-scrollbar.min.js?1765293347"></script>
+    <script src="https://manh-25.github.io/fcj-workshop-report/js/perfect-scrollbar.jquery.min.js?1765293347"></script>
+    <script src="https://manh-25.github.io/fcj-workshop-report/js/jquery.sticky.js?1765293347"></script>
+    <script src="https://manh-25.github.io/fcj-workshop-report/js/featherlight.min.js?1765293347"></script>
+    <script src="https://manh-25.github.io/fcj-workshop-report/js/highlight.pack.js?1765293347"></script>
     <script>hljs.initHighlightingOnLoad();</script>
-    <script src="https://manh-25.github.io/fcj-workshop-report/js/modernizr.custom-3.6.0.js?1765291806"></script>
-    <script src="https://manh-25.github.io/fcj-workshop-report/js/learn.js?1765291806"></script>
-    <script src="https://manh-25.github.io/fcj-workshop-report/js/hugo-learn.js?1765291806"></script>
+    <script src="https://manh-25.github.io/fcj-workshop-report/js/modernizr.custom-3.6.0.js?1765293347"></script>
+    <script src="https://manh-25.github.io/fcj-workshop-report/js/learn.js?1765293347"></script>
+    <script src="https://manh-25.github.io/fcj-workshop-report/js/hugo-learn.js?1765293347"></script>
 
-    <link href="https://manh-25.github.io/fcj-workshop-report/mermaid/mermaid.css?1765291806" rel="stylesheet" />
-    <script src="https://manh-25.github.io/fcj-workshop-report/mermaid/mermaid.js?1765291806"></script>
+    <link href="https://manh-25.github.io/fcj-workshop-report/mermaid/mermaid.css?1765293347" rel="stylesheet" />
+    <script src="https://manh-25.github.io/fcj-workshop-report/mermaid/mermaid.js?1765293347"></script>
     <script>
         mermaid.initialize({ startOnLoad: true });
     </script>
