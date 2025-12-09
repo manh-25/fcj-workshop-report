@@ -1,9 +1,10 @@
 ---
-title: "DISA STIG for Amazon Linux 2023 is now available"
+title: "Blog 1"
 weight: 1
 chapter: false
 pre: " <b> 3.1. </b> "
 ---
+# DISA STIG for Amazon Linux 2023 is now available
 
 by Mahak Arora | on 10 SEP 2025 | in  [Announcements](https://aws.amazon.com/blogs/compute/category/post-types/announcements/), [Compute](https://aws.amazon.com/blogs/compute/category/compute/), [Intermediate (200)](https://aws.amazon.com/blogs/compute/category/learning-levels/intermediate-200/) | [Permalink](https://aws.amazon.com/blogs/compute/disa-stig-for-amazon-linux-2023-is-now-available/) 
 

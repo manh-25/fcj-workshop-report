@@ -63,7 +63,7 @@ Trong quá trình thực tập, em đã tham gia 6 events. Mỗi event là một
 ---
 
 ### [Event 6](4.6-Event6/)
-&emsp;**Tên sự kiện:** BUILDING AGENTIC AI - Context Optimization with Amazon Bedrock
+&emsp;**Tên sự kiện:** Building Agentic AI - Context Optimization with Amazon Bedrock
 
 &emsp;**Thời gian:** 9:00 Thứ Sáu, ngày 05 tháng 12 năm 2025
 

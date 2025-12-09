@@ -20,7 +20,7 @@ Trước khi bắt đầu, hãy đảm bảo máy tính của bạn đã đượ
 Mở terminal trên máy tính của bạn và clone repository chứa mã nguồn của dự án:
 
 ```bash
-git clone https://gitlab.com/manh-25/contract-demo.git
+git clone https://github.com/nhatm2400/TEEJ---AGREEME.git
 cd contract-demo
 ```
 

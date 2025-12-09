@@ -16,7 +16,6 @@ During my internship, I participated in 6 events. Each event was a great experie
 
 &emsp;**Role:** Attendee  
 
----
 
 ### [Event 2](4.2-Event2/)  
 &emsp;**Event Name:** AI-Driven Development Workshop – Shaping the Future of Development
@@ -27,7 +26,6 @@ During my internship, I participated in 6 events. Each event was a great experie
 
 &emsp;**Role:** Attendee  
 
----
 
 ### [Event 3](4.3-Event3/)
 &emsp;**Event Name:** AI/ML/GenAI Workshop on AWS
@@ -38,7 +36,6 @@ During my internship, I participated in 6 events. Each event was a great experie
 
 &emsp;**Role:** Attendee
 
----
 
 ### [Event 4](4.4-Event4/)
 &emsp;**Event Name:** DevOps Workshop on AWS
@@ -49,7 +46,6 @@ During my internship, I participated in 6 events. Each event was a great experie
 
 &emsp;**Role:** Attendee
 
----
 
 ### [Event 5](4.5-Event5/)
 &emsp;**Event Name:** AWS Well-Architected Security Pillar Workshop
@@ -60,10 +56,9 @@ During my internship, I participated in 6 events. Each event was a great experie
 
 &emsp;**Role:** Attendee
 
----
 
 ### [Event 6](4.6-Event6/)
-&emsp;**Event Name:** BUILDING AGENTIC AI - Context Optimization with Amazon Bedrock
+&emsp;**Event Name:** Building Agentic AI - Context Optimization with Amazon Bedrock
 
 &emsp;**Date & Time:** 9AM Friday, December 05, 2025
 

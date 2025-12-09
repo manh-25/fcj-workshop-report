@@ -7,11 +7,11 @@ chapter: false
 # Báo cáo thực tập
 
 ### Thông tin sinh viên:
-&emsp; **Họ và tên:** Nguyễn Trí Dũng
+&emsp; **Họ và tên:** Trần Thị Minh Anh
 
-&emsp; **Số điện thoại:** 032 986 2337
+&emsp; **Số điện thoại:** 094 180 3127 
 
-&emsp; **Email:** nt.dung1297@gmail.com
+&emsp; **Email:** tranthiminhanh25@gmail.com
 
 &emsp; **Trường:** Đại học FPT TP.Hồ Chí Minh
 
@@ -23,7 +23,7 @@ chapter: false
 
 &emsp; **Thời gian thực tập:** Từ ngày 08/09/2025 đến ngày 00/12/2025
 
-![Ảnh đại diện của bạn](/images/avatar.png)
+<img src="/images/avatar.png" alt="Your profile picture" width="300">
 
 
 

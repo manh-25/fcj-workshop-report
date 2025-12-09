@@ -7,11 +7,11 @@ chapter: false
 # Internship Report
 
 ### Student Information:
-&emsp; **Full Name:** Nguyen Tri Dung
+&emsp; **Full Name:** Tran Thi Minh Anh
 
-&emsp; **Phone Number:** 032 986 2337 
+&emsp; **Phone Number:** 094 180 3127 
 
-&emsp; **Email:** nt.dung1297@gmail.com
+&emsp; **Email:** tranthiminhanh25@gmail.com
 
 &emsp; **University:** FPT University HCMC
 
@@ -21,9 +21,9 @@ chapter: false
 
 &emsp; **Internship Position:** FCJ Cloud Intern
 
-&emsp; **Internship Duration:** From 08/09/2025 to 00/12/2025
+&emsp; **Internship Duration:** From 08/09/2025 to 31/12/2025
 
-![Your profile picture](/images/avatar.png)
+<img src="/images/avatar.png" alt="Your profile picture" width="300">
 
 ### Report Content
 

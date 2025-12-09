@@ -1,9 +1,10 @@
 ---
-title: "DISA STIG cho Amazon Linux 2023 hiện đã được phát hành"
+title: "Blog 1"
 weight: 1
 chapter: false
 pre: " <b> 3.1. </b> "
 ---
+# DISA STIG cho Amazon Linux 2023 hiện đã được phát hành
 
 Tác giả: Mahak Arora | Ngày 10/09/2025 | Phân loại: [Announcements](https://aws.amazon.com/blogs/compute/category/post-types/announcements/), [Compute](https://aws.amazon.com/blogs/compute/category/compute/), [Intermediate (200)](https://aws.amazon.com/blogs/compute/category/learning-levels/intermediate-200/) | [Permalink](https://aws.amazon.com/blogs/compute/disa-stig-for-amazon-linux-2023-is-now-available/) 
 

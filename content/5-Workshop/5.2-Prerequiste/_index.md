@@ -20,7 +20,7 @@ Before starting, please ensure your computer has the following tools installed:
 Open the terminal on your computer and clone the repository containing the project source code:
 
 ```bash
-git clone https://gitlab.com/manh-25/contract-demo.git
+git clone https://github.com/nhatm2400/TEEJ---AGREEME.git
 cd contract-demo
 ```
 

@@ -1,9 +1,11 @@
 ---
-title: "AWS recognized as a Leader in the 2025 Gartner Magic Quadrant for Contact Center as a Service (CCaaS) with Amazon Connect"
+title: "Blog 3"
 weight: 1
 chapter: false
 pre: " <b> 3.3. </b> "
 ---
+# AWS recognized as a Leader in the 2025 Gartner Magic Quadrant for Contact Center as a Service (CCaaS) with Amazon Connect
+
 by Lucie Baldwin | on 10 SEP 2025 | in [Announcements](https://aws.amazon.com/blogs/contact-center/category/post-types/announcements/), [Foundational (100)](https://aws.amazon.com/blogs/contact-center/category/learning-levels/foundational-100/), [Thought Leadership](https://aws.amazon.com/blogs/contact-center/category/post-types/thought-leadership/) | [Permalink](https://aws.amazon.com/blogs/contact-center/aws-recognized-as-a-leader-in-the-2025-gartner-magic-quadrant-for-contact-center-as-a-service-ccaas-with-amazon-connect/)
 
 Gartner, a company that delivers actionable, objective insight to executives and their teams, has published the [2025 Gartner Magic Quadrant for Contact Center as a Service (CCaaS)](https://pages.awscloud.com/GLOBAL-brand-awareness-content-download-25-gartner-ardm-magic-quadrant-for-contact-center-as-a-service-mq-learn.html?trk=56335458-1f6f-4e6c-9515-a1eb3604f221&sc_channel=el). Amazon Web Services (AWS) was recognized as a Leader for [Amazon Connect](https://aws.amazon.com/connect/), our AI-powered, cloud-native customer experience solution.

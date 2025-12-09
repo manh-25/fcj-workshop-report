@@ -1,9 +1,10 @@
 ---
-title: "Tổng quan về các dịch vụ bảo mật có sẵn trong AWS Dedicated Local Zones"
+title: "Blog 2"
 weight: 1
 chapter: false
 pre: " <b> 3.2. </b> "
 ---
+# Tổng quan về các dịch vụ bảo mật có sẵn trong AWS Dedicated Local Zones
 
 Tác giả: Lakshmi VP và Enrico Liguori | Ngày 10/09/2025 | Phân loại:  [Intermediate (200)](https://aws.amazon.com/blogs/security/category/learning-levels/intermediate-200/), [Security, Identity, & Compliance](https://aws.amazon.com/blogs/security/category/security-identity-compliance/), [Technical How-to](https://aws.amazon.com/blogs/security/category/post-types/technical-how-to/) | [Permalink](https://aws.amazon.com/blogs/security/overview-of-security-services-available-in-aws-dedicated-local-zones/)
 

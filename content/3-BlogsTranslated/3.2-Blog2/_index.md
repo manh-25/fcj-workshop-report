@@ -1,9 +1,10 @@
 ---
-title: "Overview of security services available in AWS Dedicated Local Zones"
+title: "Blog 2"
 weight: 1
 chapter: false
 pre: " <b> 3.2. </b> "
 ---
+# Overview of security services available in AWS Dedicated Local Zones
 
 by Lakshmi VP và Enrico Liguori | on 10 SEP 2025 | in [Intermediate (200)](https://aws.amazon.com/blogs/security/category/learning-levels/intermediate-200/), [Security, Identity, & Compliance](https://aws.amazon.com/blogs/security/category/security-identity-compliance/), [Technical How-to](https://aws.amazon.com/blogs/security/category/post-types/technical-how-to/) | [Permalink](https://aws.amazon.com/blogs/security/overview-of-security-services-available-in-aws-dedicated-local-zones/)
 
