@@ -2,10 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Deploy Frontend (Amplify) on Báo cáo thực tập</title>
-    <link>/vi/5-workshop/5.5-fullstack/5.5.2-frontend-amplify/</link>
+    <link>https://manh-25.github.io/fcj-workshop-report/vi/5-workshop/5.5-fullstack/5.5.2-frontend-amplify/</link>
     <description>Recent content in Deploy Frontend (Amplify) on Báo cáo thực tập</description>
     <generator>Hugo</generator>
     <language>vi</language>
-    <atom:link href="/vi/5-workshop/5.5-fullstack/5.5.2-frontend-amplify/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://manh-25.github.io/fcj-workshop-report/vi/5-workshop/5.5-fullstack/5.5.2-frontend-amplify/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
