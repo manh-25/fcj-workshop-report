@@ -5,10 +5,10 @@ chapter: false
 pre: " <b> 4.5. </b> "
 ---
 
-### AWS Well-Architected Security Pillar Workshop
+### **AWS Cloud Mastery Series #3: ​Theo AWS Well-Architected Security Pillar**
 
-**Time:** Saturday, November 29, 2025, 8:30 – 12:00
-**Location:** AWS Vietnam Office
+**Time:** 8:30AM – 12PM Saturday, November 29, 2025
+**Location:** 26th Floor, Bitexco Financial Tower, HCMC
 
 
 ## **Event Objectives**
@@ -126,10 +126,10 @@ The session covered all **five security domains**—from identity management to 
 
 ## **Event Experience**
 
-Security used to feel abstract and overwhelming to me, but this workshop transformed it into **clear, scenario-driven problem solving**.
+Security used to feel abstract and overwhelming, but this workshop transformed it into **clear, scenario-driven problem solving**.
 
-* Walking through incidents such as **exposed access keys** or **public S3 buckets** showed how small misconfigurations can lead to serious security risks.  
-* The **Zero Trust mindset** fundamentally changed how I think about system design—no component is trusted by default.  
+* Describing incidents such as **exposed access keys** or **public S3 buckets** showed how small misconfigurations can lead to serious security risks.  
+* The **Zero Trust mindset** fundamentally changed how people think about system design—no component is trusted by default.  
 * Services like **GuardDuty** and **Security Hub** feel like silent security sentinels, constantly monitoring the environment and reducing operational anxiety.
 
 

@@ -4,7 +4,7 @@ weight: 1
 chapter: false
 pre: " <b> 4.5. </b> "
 ---
-# Workshop AWS Well-Architected Security Pillar
+# **AWS Cloud Mastery Series #3: ​Theo AWS Well-Architected Security Pillar**
 
 **Thời gian:** 8:30 – 12:00 Thứ Bảy, ngày 29 tháng 11 năm 2025
 **Địa điểm:** AWS Event Hall, Tầng 26 – Bitexco Tower, TP. Hồ Chí Minh
@@ -126,7 +126,7 @@ Nội dung bao phủ **đầy đủ 5 miền bảo mật**, từ quản lý danh
 
 Trước đây, bảo mật luôn là chủ đề khô khan và khó tiếp cận, nhưng workshop này đã biến nó thành **những tình huống “chiến đấu” rất thực tế**.
 
-* Việc trực tiếp xử lý các kịch bản như **lộ access key** hay **S3 bucket bị public** chỉ ra mức độ nguy hiểm của những lỗi tưởng chừng rất cơ bản.  
+* Việc mô tả các kịch bản như **lộ access key** hay **S3 bucket bị public** chỉ ra mức độ nguy hiểm của những lỗi tưởng chừng rất cơ bản.  
 * Tư duy **Zero Trust** làm thay đổi hoàn toàn cách thiết kế kiến trúc hệ thống – không còn tin tưởng bất kỳ thành phần nào.  
 * Các dịch vụ như **GuardDuty** hay **Security Hub** mang lại sự yên tâm khi vận hành hệ thống trên Cloud.
 
@@ -142,3 +142,9 @@ Trước đây, bảo mật luôn là chủ đề khô khan và khó tiếp cậ
 * **Luôn sẵn sàng ứng phó**  
   * Sự cố có thể xảy ra bất cứ lúc nào.  
   * Việc chuẩn bị playbook giúp đội ngũ xử lý vấn đề một cách bình tĩnh, có hệ thống và nhanh chóng hơn.
+
+### Hình ảnh sự kiện
+
+![img](/images/4-Event/Event-5/z7309533778160_d73d04090668200f3e05d45a25f251ba.jpg)
+![img](/images/4-Event/Event-5/z7309533786182_0826a264ad96bc67fdfcc6cec7146286.jpg)
+![img](/images/4-Event/Event-5/z7309533793690_64f27fd001e9424f6b408301a5a19bcc.jpg)
