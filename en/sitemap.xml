@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://manh-25.github.io/fcj-workshop-report/3-blogstranslated/3.1-blog1/</loc>
+    <loc>https://manh-25.github.io/fcj-workshop-report/en/3-blogstranslated/3.1-blog1/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
@@ -11,10 +11,10 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://manh-25.github.io/fcj-workshop-report/3-blogstranslated/3.1-blog1/"
+                href="https://manh-25.github.io/fcj-workshop-report/en/3-blogstranslated/3.1-blog1/"
                 />
   </url><url>
-    <loc>https://manh-25.github.io/fcj-workshop-report/3-blogstranslated/3.2-blog2/</loc>
+    <loc>https://manh-25.github.io/fcj-workshop-report/en/3-blogstranslated/3.2-blog2/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
@@ -23,10 +23,10 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://manh-25.github.io/fcj-workshop-report/3-blogstranslated/3.2-blog2/"
+                href="https://manh-25.github.io/fcj-workshop-report/en/3-blogstranslated/3.2-blog2/"
                 />
   </url><url>
-    <loc>https://manh-25.github.io/fcj-workshop-report/3-blogstranslated/3.3-blog3/</loc>
+    <loc>https://manh-25.github.io/fcj-workshop-report/en/3-blogstranslated/3.3-blog3/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
@@ -35,10 +35,10 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://manh-25.github.io/fcj-workshop-report/3-blogstranslated/3.3-blog3/"
+                href="https://manh-25.github.io/fcj-workshop-report/en/3-blogstranslated/3.3-blog3/"
                 />
   </url><url>
-    <loc>https://manh-25.github.io/fcj-workshop-report/5-workshop/5.3-infrastructure/5.3.1-amazon-s3-bucket/</loc>
+    <loc>https://manh-25.github.io/fcj-workshop-report/en/5-workshop/5.3-infrastructure/5.3.1-amazon-s3-bucket/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
@@ -47,10 +47,10 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://manh-25.github.io/fcj-workshop-report/5-workshop/5.3-infrastructure/5.3.1-amazon-s3-bucket/"
+                href="https://manh-25.github.io/fcj-workshop-report/en/5-workshop/5.3-infrastructure/5.3.1-amazon-s3-bucket/"
                 />
   </url><url>
-    <loc>https://manh-25.github.io/fcj-workshop-report/5-workshop/5.4-backend/5.4.1-ragsearch/</loc>
+    <loc>https://manh-25.github.io/fcj-workshop-report/en/5-workshop/5.4-backend/5.4.1-ragsearch/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
@@ -59,10 +59,10 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://manh-25.github.io/fcj-workshop-report/5-workshop/5.4-backend/5.4.1-ragsearch/"
+                href="https://manh-25.github.io/fcj-workshop-report/en/5-workshop/5.4-backend/5.4.1-ragsearch/"
                 />
   </url><url>
-    <loc>https://manh-25.github.io/fcj-workshop-report/5-workshop/5.5-fullstack/5.5.1-backend-deploy/</loc>
+    <loc>https://manh-25.github.io/fcj-workshop-report/en/5-workshop/5.5-fullstack/5.5.1-backend-deploy/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
@@ -71,10 +71,10 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://manh-25.github.io/fcj-workshop-report/5-workshop/5.5-fullstack/5.5.1-backend-deploy/"
+                href="https://manh-25.github.io/fcj-workshop-report/en/5-workshop/5.5-fullstack/5.5.1-backend-deploy/"
                 />
   </url><url>
-    <loc>https://manh-25.github.io/fcj-workshop-report/4-eventparticipated/4.1-event1/</loc>
+    <loc>https://manh-25.github.io/fcj-workshop-report/en/4-eventparticipated/4.1-event1/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
@@ -83,10 +83,10 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://manh-25.github.io/fcj-workshop-report/4-eventparticipated/4.1-event1/"
+                href="https://manh-25.github.io/fcj-workshop-report/en/4-eventparticipated/4.1-event1/"
                 />
   </url><url>
-    <loc>https://manh-25.github.io/fcj-workshop-report/4-eventparticipated/4.2-event2/</loc>
+    <loc>https://manh-25.github.io/fcj-workshop-report/en/4-eventparticipated/4.2-event2/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
@@ -95,10 +95,10 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://manh-25.github.io/fcj-workshop-report/4-eventparticipated/4.2-event2/"
+                href="https://manh-25.github.io/fcj-workshop-report/en/4-eventparticipated/4.2-event2/"
                 />
   </url><url>
-    <loc>https://manh-25.github.io/fcj-workshop-report/4-eventparticipated/4.3-event3/</loc>
+    <loc>https://manh-25.github.io/fcj-workshop-report/en/4-eventparticipated/4.3-event3/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
@@ -107,10 +107,10 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://manh-25.github.io/fcj-workshop-report/4-eventparticipated/4.3-event3/"
+                href="https://manh-25.github.io/fcj-workshop-report/en/4-eventparticipated/4.3-event3/"
                 />
   </url><url>
-    <loc>https://manh-25.github.io/fcj-workshop-report/4-eventparticipated/4.4-event4/</loc>
+    <loc>https://manh-25.github.io/fcj-workshop-report/en/4-eventparticipated/4.4-event4/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
@@ -119,10 +119,10 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://manh-25.github.io/fcj-workshop-report/4-eventparticipated/4.4-event4/"
+                href="https://manh-25.github.io/fcj-workshop-report/en/4-eventparticipated/4.4-event4/"
                 />
   </url><url>
-    <loc>https://manh-25.github.io/fcj-workshop-report/4-eventparticipated/4.5-event5/</loc>
+    <loc>https://manh-25.github.io/fcj-workshop-report/en/4-eventparticipated/4.5-event5/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
@@ -131,10 +131,10 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://manh-25.github.io/fcj-workshop-report/4-eventparticipated/4.5-event5/"
+                href="https://manh-25.github.io/fcj-workshop-report/en/4-eventparticipated/4.5-event5/"
                 />
   </url><url>
-    <loc>https://manh-25.github.io/fcj-workshop-report/4-eventparticipated/4.6-event6/</loc>
+    <loc>https://manh-25.github.io/fcj-workshop-report/en/4-eventparticipated/4.6-event6/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
@@ -143,10 +143,10 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://manh-25.github.io/fcj-workshop-report/4-eventparticipated/4.6-event6/"
+                href="https://manh-25.github.io/fcj-workshop-report/en/4-eventparticipated/4.6-event6/"
                 />
   </url><url>
-    <loc>https://manh-25.github.io/fcj-workshop-report/</loc>
+    <loc>https://manh-25.github.io/fcj-workshop-report/en/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
@@ -155,10 +155,10 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://manh-25.github.io/fcj-workshop-report/"
+                href="https://manh-25.github.io/fcj-workshop-report/en/"
                 />
   </url><url>
-    <loc>https://manh-25.github.io/fcj-workshop-report/5-workshop/5.1-workshop-overview/</loc>
+    <loc>https://manh-25.github.io/fcj-workshop-report/en/5-workshop/5.1-workshop-overview/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
@@ -167,10 +167,10 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://manh-25.github.io/fcj-workshop-report/5-workshop/5.1-workshop-overview/"
+                href="https://manh-25.github.io/fcj-workshop-report/en/5-workshop/5.1-workshop-overview/"
                 />
   </url><url>
-    <loc>https://manh-25.github.io/fcj-workshop-report/1-worklog/1.1-week1/</loc>
+    <loc>https://manh-25.github.io/fcj-workshop-report/en/1-worklog/1.1-week1/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
@@ -179,10 +179,10 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://manh-25.github.io/fcj-workshop-report/1-worklog/1.1-week1/"
+                href="https://manh-25.github.io/fcj-workshop-report/en/1-worklog/1.1-week1/"
                 />
   </url><url>
-    <loc>https://manh-25.github.io/fcj-workshop-report/1-worklog/1.2-week2/</loc>
+    <loc>https://manh-25.github.io/fcj-workshop-report/en/1-worklog/1.2-week2/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
@@ -191,10 +191,10 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://manh-25.github.io/fcj-workshop-report/1-worklog/1.2-week2/"
+                href="https://manh-25.github.io/fcj-workshop-report/en/1-worklog/1.2-week2/"
                 />
   </url><url>
-    <loc>https://manh-25.github.io/fcj-workshop-report/1-worklog/1.3-week3/</loc>
+    <loc>https://manh-25.github.io/fcj-workshop-report/en/1-worklog/1.3-week3/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
@@ -203,10 +203,10 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://manh-25.github.io/fcj-workshop-report/1-worklog/1.3-week3/"
+                href="https://manh-25.github.io/fcj-workshop-report/en/1-worklog/1.3-week3/"
                 />
   </url><url>
-    <loc>https://manh-25.github.io/fcj-workshop-report/1-worklog/1.4-week4/</loc>
+    <loc>https://manh-25.github.io/fcj-workshop-report/en/1-worklog/1.4-week4/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
@@ -215,10 +215,10 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://manh-25.github.io/fcj-workshop-report/1-worklog/1.4-week4/"
+                href="https://manh-25.github.io/fcj-workshop-report/en/1-worklog/1.4-week4/"
                 />
   </url><url>
-    <loc>https://manh-25.github.io/fcj-workshop-report/1-worklog/1.5-week5/</loc>
+    <loc>https://manh-25.github.io/fcj-workshop-report/en/1-worklog/1.5-week5/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
@@ -227,10 +227,10 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://manh-25.github.io/fcj-workshop-report/1-worklog/1.5-week5/"
+                href="https://manh-25.github.io/fcj-workshop-report/en/1-worklog/1.5-week5/"
                 />
   </url><url>
-    <loc>https://manh-25.github.io/fcj-workshop-report/1-worklog/1.6-week6/</loc>
+    <loc>https://manh-25.github.io/fcj-workshop-report/en/1-worklog/1.6-week6/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
@@ -239,10 +239,10 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://manh-25.github.io/fcj-workshop-report/1-worklog/1.6-week6/"
+                href="https://manh-25.github.io/fcj-workshop-report/en/1-worklog/1.6-week6/"
                 />
   </url><url>
-    <loc>https://manh-25.github.io/fcj-workshop-report/1-worklog/1.7-week7/</loc>
+    <loc>https://manh-25.github.io/fcj-workshop-report/en/1-worklog/1.7-week7/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
@@ -251,10 +251,10 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://manh-25.github.io/fcj-workshop-report/1-worklog/1.7-week7/"
+                href="https://manh-25.github.io/fcj-workshop-report/en/1-worklog/1.7-week7/"
                 />
   </url><url>
-    <loc>https://manh-25.github.io/fcj-workshop-report/1-worklog/1.8-week8/</loc>
+    <loc>https://manh-25.github.io/fcj-workshop-report/en/1-worklog/1.8-week8/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
@@ -263,10 +263,10 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://manh-25.github.io/fcj-workshop-report/1-worklog/1.8-week8/"
+                href="https://manh-25.github.io/fcj-workshop-report/en/1-worklog/1.8-week8/"
                 />
   </url><url>
-    <loc>https://manh-25.github.io/fcj-workshop-report/1-worklog/1.9-week9/</loc>
+    <loc>https://manh-25.github.io/fcj-workshop-report/en/1-worklog/1.9-week9/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
@@ -275,10 +275,10 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://manh-25.github.io/fcj-workshop-report/1-worklog/1.9-week9/"
+                href="https://manh-25.github.io/fcj-workshop-report/en/1-worklog/1.9-week9/"
                 />
   </url><url>
-    <loc>https://manh-25.github.io/fcj-workshop-report/1-worklog/</loc>
+    <loc>https://manh-25.github.io/fcj-workshop-report/en/1-worklog/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
@@ -287,10 +287,10 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://manh-25.github.io/fcj-workshop-report/1-worklog/"
+                href="https://manh-25.github.io/fcj-workshop-report/en/1-worklog/"
                 />
   </url><url>
-    <loc>https://manh-25.github.io/fcj-workshop-report/5-workshop/5.4-backend/5.4.2-other-lambdas/</loc>
+    <loc>https://manh-25.github.io/fcj-workshop-report/en/5-workshop/5.4-backend/5.4.2-other-lambdas/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
@@ -299,10 +299,10 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://manh-25.github.io/fcj-workshop-report/5-workshop/5.4-backend/5.4.2-other-lambdas/"
+                href="https://manh-25.github.io/fcj-workshop-report/en/5-workshop/5.4-backend/5.4.2-other-lambdas/"
                 />
   </url><url>
-    <loc>https://manh-25.github.io/fcj-workshop-report/5-workshop/5.3-infrastructure/5.3.2-dynamodb/</loc>
+    <loc>https://manh-25.github.io/fcj-workshop-report/en/5-workshop/5.3-infrastructure/5.3.2-dynamodb/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
@@ -311,10 +311,10 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://manh-25.github.io/fcj-workshop-report/5-workshop/5.3-infrastructure/5.3.2-dynamodb/"
+                href="https://manh-25.github.io/fcj-workshop-report/en/5-workshop/5.3-infrastructure/5.3.2-dynamodb/"
                 />
   </url><url>
-    <loc>https://manh-25.github.io/fcj-workshop-report/5-workshop/5.5-fullstack/5.5.2-frontend-amplify/</loc>
+    <loc>https://manh-25.github.io/fcj-workshop-report/en/5-workshop/5.5-fullstack/5.5.2-frontend-amplify/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
@@ -323,10 +323,10 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://manh-25.github.io/fcj-workshop-report/5-workshop/5.5-fullstack/5.5.2-frontend-amplify/"
+                href="https://manh-25.github.io/fcj-workshop-report/en/5-workshop/5.5-fullstack/5.5.2-frontend-amplify/"
                 />
   </url><url>
-    <loc>https://manh-25.github.io/fcj-workshop-report/5-workshop/5.2-prerequiste/</loc>
+    <loc>https://manh-25.github.io/fcj-workshop-report/en/5-workshop/5.2-prerequiste/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
@@ -335,10 +335,10 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://manh-25.github.io/fcj-workshop-report/5-workshop/5.2-prerequiste/"
+                href="https://manh-25.github.io/fcj-workshop-report/en/5-workshop/5.2-prerequiste/"
                 />
   </url><url>
-    <loc>https://manh-25.github.io/fcj-workshop-report/2-proposal/</loc>
+    <loc>https://manh-25.github.io/fcj-workshop-report/en/2-proposal/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
@@ -347,10 +347,10 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://manh-25.github.io/fcj-workshop-report/2-proposal/"
+                href="https://manh-25.github.io/fcj-workshop-report/en/2-proposal/"
                 />
   </url><url>
-    <loc>https://manh-25.github.io/fcj-workshop-report/1-worklog/1.10-week10/</loc>
+    <loc>https://manh-25.github.io/fcj-workshop-report/en/1-worklog/1.10-week10/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
@@ -359,10 +359,10 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://manh-25.github.io/fcj-workshop-report/1-worklog/1.10-week10/"
+                href="https://manh-25.github.io/fcj-workshop-report/en/1-worklog/1.10-week10/"
                 />
   </url><url>
-    <loc>https://manh-25.github.io/fcj-workshop-report/1-worklog/1.11-week11/</loc>
+    <loc>https://manh-25.github.io/fcj-workshop-report/en/1-worklog/1.11-week11/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
@@ -371,10 +371,10 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://manh-25.github.io/fcj-workshop-report/1-worklog/1.11-week11/"
+                href="https://manh-25.github.io/fcj-workshop-report/en/1-worklog/1.11-week11/"
                 />
   </url><url>
-    <loc>https://manh-25.github.io/fcj-workshop-report/1-worklog/1.12-week12/</loc>
+    <loc>https://manh-25.github.io/fcj-workshop-report/en/1-worklog/1.12-week12/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
@@ -383,10 +383,10 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://manh-25.github.io/fcj-workshop-report/1-worklog/1.12-week12/"
+                href="https://manh-25.github.io/fcj-workshop-report/en/1-worklog/1.12-week12/"
                 />
   </url><url>
-    <loc>https://manh-25.github.io/fcj-workshop-report/5-workshop/5.4-backend/5.4.3-api-secrets/</loc>
+    <loc>https://manh-25.github.io/fcj-workshop-report/en/5-workshop/5.4-backend/5.4.3-api-secrets/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
@@ -395,10 +395,10 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://manh-25.github.io/fcj-workshop-report/5-workshop/5.4-backend/5.4.3-api-secrets/"
+                href="https://manh-25.github.io/fcj-workshop-report/en/5-workshop/5.4-backend/5.4.3-api-secrets/"
                 />
   </url><url>
-    <loc>https://manh-25.github.io/fcj-workshop-report/5-workshop/5.3-infrastructure/</loc>
+    <loc>https://manh-25.github.io/fcj-workshop-report/en/5-workshop/5.3-infrastructure/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
@@ -407,10 +407,10 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://manh-25.github.io/fcj-workshop-report/5-workshop/5.3-infrastructure/"
+                href="https://manh-25.github.io/fcj-workshop-report/en/5-workshop/5.3-infrastructure/"
                 />
   </url><url>
-    <loc>https://manh-25.github.io/fcj-workshop-report/3-blogstranslated/</loc>
+    <loc>https://manh-25.github.io/fcj-workshop-report/en/3-blogstranslated/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
@@ -419,10 +419,10 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://manh-25.github.io/fcj-workshop-report/3-blogstranslated/"
+                href="https://manh-25.github.io/fcj-workshop-report/en/3-blogstranslated/"
                 />
   </url><url>
-    <loc>https://manh-25.github.io/fcj-workshop-report/5-workshop/5.4-backend/</loc>
+    <loc>https://manh-25.github.io/fcj-workshop-report/en/5-workshop/5.4-backend/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
@@ -431,10 +431,10 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://manh-25.github.io/fcj-workshop-report/5-workshop/5.4-backend/"
+                href="https://manh-25.github.io/fcj-workshop-report/en/5-workshop/5.4-backend/"
                 />
   </url><url>
-    <loc>https://manh-25.github.io/fcj-workshop-report/4-eventparticipated/</loc>
+    <loc>https://manh-25.github.io/fcj-workshop-report/en/4-eventparticipated/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
@@ -443,10 +443,10 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://manh-25.github.io/fcj-workshop-report/4-eventparticipated/"
+                href="https://manh-25.github.io/fcj-workshop-report/en/4-eventparticipated/"
                 />
   </url><url>
-    <loc>https://manh-25.github.io/fcj-workshop-report/5-workshop/5.5-fullstack/</loc>
+    <loc>https://manh-25.github.io/fcj-workshop-report/en/5-workshop/5.5-fullstack/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
@@ -455,10 +455,10 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://manh-25.github.io/fcj-workshop-report/5-workshop/5.5-fullstack/"
+                href="https://manh-25.github.io/fcj-workshop-report/en/5-workshop/5.5-fullstack/"
                 />
   </url><url>
-    <loc>https://manh-25.github.io/fcj-workshop-report/5-workshop/</loc>
+    <loc>https://manh-25.github.io/fcj-workshop-report/en/5-workshop/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
@@ -467,10 +467,10 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://manh-25.github.io/fcj-workshop-report/5-workshop/"
+                href="https://manh-25.github.io/fcj-workshop-report/en/5-workshop/"
                 />
   </url><url>
-    <loc>https://manh-25.github.io/fcj-workshop-report/5-workshop/5.6-cleanup/</loc>
+    <loc>https://manh-25.github.io/fcj-workshop-report/en/5-workshop/5.6-cleanup/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
@@ -479,10 +479,10 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://manh-25.github.io/fcj-workshop-report/5-workshop/5.6-cleanup/"
+                href="https://manh-25.github.io/fcj-workshop-report/en/5-workshop/5.6-cleanup/"
                 />
   </url><url>
-    <loc>https://manh-25.github.io/fcj-workshop-report/6-self-evaluation/</loc>
+    <loc>https://manh-25.github.io/fcj-workshop-report/en/6-self-evaluation/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
@@ -491,10 +491,10 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://manh-25.github.io/fcj-workshop-report/6-self-evaluation/"
+                href="https://manh-25.github.io/fcj-workshop-report/en/6-self-evaluation/"
                 />
   </url><url>
-    <loc>https://manh-25.github.io/fcj-workshop-report/7-feedback/</loc>
+    <loc>https://manh-25.github.io/fcj-workshop-report/en/7-feedback/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
@@ -503,10 +503,10 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://manh-25.github.io/fcj-workshop-report/7-feedback/"
+                href="https://manh-25.github.io/fcj-workshop-report/en/7-feedback/"
                 />
   </url><url>
-    <loc>https://manh-25.github.io/fcj-workshop-report/categories/</loc>
+    <loc>https://manh-25.github.io/fcj-workshop-report/en/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
@@ -515,10 +515,10 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://manh-25.github.io/fcj-workshop-report/categories/"
+                href="https://manh-25.github.io/fcj-workshop-report/en/categories/"
                 />
   </url><url>
-    <loc>https://manh-25.github.io/fcj-workshop-report/tags/</loc>
+    <loc>https://manh-25.github.io/fcj-workshop-report/en/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
@@ -527,7 +527,7 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://manh-25.github.io/fcj-workshop-report/tags/"
+                href="https://manh-25.github.io/fcj-workshop-report/en/tags/"
                 />
   </url>
 </urlset>

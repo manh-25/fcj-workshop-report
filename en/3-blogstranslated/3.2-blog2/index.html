@@ -1,0 +1,1963 @@
+<!DOCTYPE html>
+<html lang="en" class="js csstransforms3d">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="generator" content="Hugo 0.151.0">
+    <meta
+  name="description"
+  content=""
+/>
+<meta name="author" content="thienlh@thienlu.com" />
+
+    <link rel="icon" href="https://manh-25.github.io/fcj-workshop-report/images/favicon.png" type="image/png">
+
+    <title>Blog 2 :: Internship Report</title>
+
+    
+    <link href="https://manh-25.github.io/fcj-workshop-report/css/nucleus.css?1765289368" rel="stylesheet">
+    <link href="https://manh-25.github.io/fcj-workshop-report/css/fontawesome-all.min.css?1765289368" rel="stylesheet">
+    <link href="https://manh-25.github.io/fcj-workshop-report/css/hybrid.css?1765289368" rel="stylesheet">
+    <link href="https://manh-25.github.io/fcj-workshop-report/css/featherlight.min.css?1765289368" rel="stylesheet">
+    <link href="https://manh-25.github.io/fcj-workshop-report/css/perfect-scrollbar.min.css?1765289368" rel="stylesheet">
+    <link href="https://manh-25.github.io/fcj-workshop-report/css/auto-complete.css?1765289368" rel="stylesheet">
+    <link href="https://manh-25.github.io/fcj-workshop-report/css/atom-one-dark-reasonable.css?1765289368" rel="stylesheet">
+    <link href="https://manh-25.github.io/fcj-workshop-report/css/theme.css?1765289368" rel="stylesheet">
+    <link href="https://manh-25.github.io/fcj-workshop-report/css/hugo-theme.css?1765289368" rel="stylesheet">
+    
+    <link href="https://manh-25.github.io/fcj-workshop-report/css/theme-workshop.css?1765289368" rel="stylesheet">
+    
+    
+
+    <script src="https://manh-25.github.io/fcj-workshop-report/js/jquery-3.3.1.min.js?1765289368"></script>
+
+    <style>
+      :root #header + #content > #left > #rlblock_left{
+          display:none !important;
+      }
+      
+    </style>
+    
+
+  </head>
+  <body class="" data-url="https://manh-25.github.io/fcj-workshop-report/en/3-blogstranslated/3.2-blog2/">
+    <nav
+  id="sidebar"
+  class="showVisitedLinks"
+>
+   
+  <div id="header-wrapper">
+    <div id="header"><a id="logo" href="https://manh-25.github.io/fcj-workshop-report/">
+  <svg
+    id="Layer_1"
+    data-name="Layer 1"
+    xmlns="http://www.w3.org/2000/svg"
+    viewBox="0 0 60 30"
+    width="30%"
+  >
+    <defs>
+      <style>
+        .cls-1 {
+          fill: #fff;
+        }
+        .cls-2 {
+          fill: #f90;
+          fill-rule: evenodd;
+        }
+      </style>
+    </defs>
+    <title>AWS-Logo_White-Color</title>
+    <path
+      class="cls-1"
+      d="M14.09,10.85a4.7,4.7,0,0,0,.19,1.48,7.73,7.73,0,0,0,.54,1.19.77.77,0,0,1,.12.38.64.64,0,0,1-.32.49l-1,.7a.83.83,0,0,1-.44.15.69.69,0,0,1-.49-.23,3.8,3.8,0,0,1-.6-.77q-.25-.42-.51-1a6.14,6.14,0,0,1-4.89,2.3,4.54,4.54,0,0,1-3.32-1.19,4.27,4.27,0,0,1-1.22-3.2A4.28,4.28,0,0,1,3.61,7.75,6.06,6.06,0,0,1,7.69,6.46a12.47,12.47,0,0,1,1.76.13q.92.13,1.91.36V5.73a3.65,3.65,0,0,0-.79-2.66A3.81,3.81,0,0,0,7.86,2.3a7.71,7.71,0,0,0-1.79.22,12.78,12.78,0,0,0-1.79.57,4.55,4.55,0,0,1-.58.22l-.26,0q-.35,0-.35-.52V2a1.09,1.09,0,0,1,.12-.58,1.2,1.2,0,0,1,.47-.35A10.88,10.88,0,0,1,5.77.32,10.19,10.19,0,0,1,8.36,0a6,6,0,0,1,4.35,1.35,5.49,5.49,0,0,1,1.38,4.09ZM7.34,13.38a5.36,5.36,0,0,0,1.72-.31A3.63,3.63,0,0,0,10.63,12,2.62,2.62,0,0,0,11.19,11a5.63,5.63,0,0,0,.16-1.44v-.7a14.35,14.35,0,0,0-1.53-.28,12.37,12.37,0,0,0-1.56-.1,3.84,3.84,0,0,0-2.47.67A2.34,2.34,0,0,0,5,11a2.35,2.35,0,0,0,.61,1.76A2.4,2.4,0,0,0,7.34,13.38Zm13.35,1.8a1,1,0,0,1-.64-.16,1.3,1.3,0,0,1-.35-.65L15.81,1.51a3,3,0,0,1-.15-.67.36.36,0,0,1,.41-.41H17.7a1,1,0,0,1,.65.16,1.4,1.4,0,0,1,.33.65l2.79,11,2.59-11A1.17,1.17,0,0,1,24.39.6a1.1,1.1,0,0,1,.67-.16H26.4a1.1,1.1,0,0,1,.67.16,1.17,1.17,0,0,1,.32.65L30,12.39,32.88,1.25A1.39,1.39,0,0,1,33.22.6a1,1,0,0,1,.65-.16h1.54a.36.36,0,0,1,.41.41,1.36,1.36,0,0,1,0,.26,3.64,3.64,0,0,1-.12.41l-4,12.86a1.3,1.3,0,0,1-.35.65,1,1,0,0,1-.64.16H29.25a1,1,0,0,1-.67-.17,1.26,1.26,0,0,1-.32-.67L25.67,3.64,23.11,14.34a1.26,1.26,0,0,1-.32.67,1,1,0,0,1-.67.17Zm21.36.44a11.28,11.28,0,0,1-2.56-.29,7.44,7.44,0,0,1-1.92-.67,1,1,0,0,1-.61-.93v-.84q0-.52.38-.52a.9.9,0,0,1,.31.06l.42.17a8.77,8.77,0,0,0,1.83.58,9.78,9.78,0,0,0,2,.2,4.48,4.48,0,0,0,2.43-.55,1.76,1.76,0,0,0,.86-1.57,1.61,1.61,0,0,0-.45-1.16A4.29,4.29,0,0,0,43,9.22l-2.41-.76A5.15,5.15,0,0,1,38,6.78a3.94,3.94,0,0,1-.83-2.41,3.7,3.7,0,0,1,.45-1.85,4.47,4.47,0,0,1,1.19-1.37A5.27,5.27,0,0,1,40.51.29,7.4,7.4,0,0,1,42.6,0a8.87,8.87,0,0,1,1.12.07q.57.07,1.08.19t.95.26a4.27,4.27,0,0,1,.7.29,1.59,1.59,0,0,1,.49.41.94.94,0,0,1,.15.55v.79q0,.52-.38.52a1.76,1.76,0,0,1-.64-.2,7.74,7.74,0,0,0-3.2-.64,4.37,4.37,0,0,0-2.21.47,1.6,1.6,0,0,0-.79,1.48,1.58,1.58,0,0,0,.49,1.18,4.94,4.94,0,0,0,1.83.92L44.55,7a5.08,5.08,0,0,1,2.57,1.6A3.76,3.76,0,0,1,47.9,11a4.21,4.21,0,0,1-.44,1.93,4.4,4.4,0,0,1-1.21,1.47,5.43,5.43,0,0,1-1.85.93A8.25,8.25,0,0,1,42.05,15.62Z"
+    ></path>
+    <path
+      class="cls-2"
+      d="M45.19,23.81C39.72,27.85,31.78,30,25,30A36.64,36.64,0,0,1,.22,20.57c-.51-.46-.06-1.09.56-.74A49.78,49.78,0,0,0,25.53,26.4,49.23,49.23,0,0,0,44.4,22.53C45.32,22.14,46.1,23.14,45.19,23.81Z"
+    ></path>
+    <path
+      class="cls-2"
+      d="M47.47,21.21c-.7-.9-4.63-.42-6.39-.21-.53.06-.62-.4-.14-.74,3.13-2.2,8.27-1.57,8.86-.83s-.16,5.89-3.09,8.35c-.45.38-.88.18-.68-.32C46.69,25.8,48.17,22.11,47.47,21.21Z"
+    ></path>
+  </svg>
+</a>
+</div>
+     <div class="searchbox">
+    <label for="search-by"><i class="fas fa-search"></i></label>
+    <input data-search-input id="search-by" type="search" placeholder="Search...">
+    <span data-search-clear=""><i class="fas fa-times"></i></span>
+</div>
+
+<script type="text/javascript" src="https://manh-25.github.io/fcj-workshop-report/js/lunr.min.js?1765289368"></script>
+<script type="text/javascript" src="https://manh-25.github.io/fcj-workshop-report/js/auto-complete.js?1765289368"></script>
+<script type="text/javascript">
+    
+        var baseurl = "https:\/\/manh-25.github.io\/fcj-workshop-report\/\/en";
+    
+</script>
+<script type="text/javascript" src="https://manh-25.github.io/fcj-workshop-report/js/search.js?1765289368"></script>
+ 
+  </div>
+
+  <div class="highlightable">
+    <ul class="topics">
+               
+<li
+  data-nav-id="/en/1-worklog/"
+  title="Worklog"
+  class="dd-item 
+        
+        
+        
+        "
+>
+  <a href="https://manh-25.github.io/fcj-workshop-report/en/1-worklog/">
+     <b> 1. </b> Worklog 
+    <i class="fas fa-check read-icon"></i>
+    
+  </a>
+   
+  <ul>
+          
+            
+<li
+  data-nav-id="/en/1-worklog/1.1-week1/"
+  title="Week 1 Worklog"
+  class="dd-item 
+        
+        
+        
+        "
+>
+  <a href="https://manh-25.github.io/fcj-workshop-report/en/1-worklog/1.1-week1/">
+     <b> 1.1. </b> Week 1 Worklog 
+    <i class="fas fa-check read-icon"></i>
+    
+  </a>
+   
+</li>
+    
+            
+<li
+  data-nav-id="/en/1-worklog/1.2-week2/"
+  title="Week 2 Worklog"
+  class="dd-item 
+        
+        
+        
+        "
+>
+  <a href="https://manh-25.github.io/fcj-workshop-report/en/1-worklog/1.2-week2/">
+     <b> 1.2. </b> Week 2 Worklog 
+    <i class="fas fa-check read-icon"></i>
+    
+  </a>
+   
+</li>
+    
+            
+<li
+  data-nav-id="/en/1-worklog/1.3-week3/"
+  title="Week 3 Worklog"
+  class="dd-item 
+        
+        
+        
+        "
+>
+  <a href="https://manh-25.github.io/fcj-workshop-report/en/1-worklog/1.3-week3/">
+     <b> 1.3. </b> Week 3 Worklog 
+    <i class="fas fa-check read-icon"></i>
+    
+  </a>
+   
+</li>
+    
+            
+<li
+  data-nav-id="/en/1-worklog/1.4-week4/"
+  title="Week 4 Worklog"
+  class="dd-item 
+        
+        
+        
+        "
+>
+  <a href="https://manh-25.github.io/fcj-workshop-report/en/1-worklog/1.4-week4/">
+     <b> 1.4. </b> Week 4 Worklog 
+    <i class="fas fa-check read-icon"></i>
+    
+  </a>
+   
+</li>
+    
+            
+<li
+  data-nav-id="/en/1-worklog/1.5-week5/"
+  title="Week 5 Worklog"
+  class="dd-item 
+        
+        
+        
+        "
+>
+  <a href="https://manh-25.github.io/fcj-workshop-report/en/1-worklog/1.5-week5/">
+     <b> 1.5. </b> Week 5 Worklog 
+    <i class="fas fa-check read-icon"></i>
+    
+  </a>
+   
+</li>
+    
+            
+<li
+  data-nav-id="/en/1-worklog/1.6-week6/"
+  title="Week 6 Worklog"
+  class="dd-item 
+        
+        
+        
+        "
+>
+  <a href="https://manh-25.github.io/fcj-workshop-report/en/1-worklog/1.6-week6/">
+     <b> 1.6. </b> Week 6 Worklog 
+    <i class="fas fa-check read-icon"></i>
+    
+  </a>
+   
+</li>
+    
+            
+<li
+  data-nav-id="/en/1-worklog/1.7-week7/"
+  title="Week 7 Worklog"
+  class="dd-item 
+        
+        
+        
+        "
+>
+  <a href="https://manh-25.github.io/fcj-workshop-report/en/1-worklog/1.7-week7/">
+     <b> 1.7. </b> Week 7 Worklog 
+    <i class="fas fa-check read-icon"></i>
+    
+  </a>
+   
+</li>
+    
+            
+<li
+  data-nav-id="/en/1-worklog/1.8-week8/"
+  title="Week 8 Worklog"
+  class="dd-item 
+        
+        
+        
+        "
+>
+  <a href="https://manh-25.github.io/fcj-workshop-report/en/1-worklog/1.8-week8/">
+     <b> 1.8. </b> Week 8 Worklog 
+    <i class="fas fa-check read-icon"></i>
+    
+  </a>
+   
+</li>
+    
+            
+<li
+  data-nav-id="/en/1-worklog/1.9-week9/"
+  title="Week 9 Worklog"
+  class="dd-item 
+        
+        
+        
+        "
+>
+  <a href="https://manh-25.github.io/fcj-workshop-report/en/1-worklog/1.9-week9/">
+     <b> 1.9. </b> Week 9 Worklog 
+    <i class="fas fa-check read-icon"></i>
+    
+  </a>
+   
+</li>
+    
+            
+<li
+  data-nav-id="/en/1-worklog/1.10-week10/"
+  title="Week 10 Worklog"
+  class="dd-item 
+        
+        
+        
+        "
+>
+  <a href="https://manh-25.github.io/fcj-workshop-report/en/1-worklog/1.10-week10/">
+     <b> 1.10. </b> Week 10 Worklog 
+    <i class="fas fa-check read-icon"></i>
+    
+  </a>
+   
+</li>
+    
+            
+<li
+  data-nav-id="/en/1-worklog/1.11-week11/"
+  title="Week 11 Worklog"
+  class="dd-item 
+        
+        
+        
+        "
+>
+  <a href="https://manh-25.github.io/fcj-workshop-report/en/1-worklog/1.11-week11/">
+     <b> 1.11. </b> Week 11 Worklog 
+    <i class="fas fa-check read-icon"></i>
+    
+  </a>
+   
+</li>
+    
+            
+<li
+  data-nav-id="/en/1-worklog/1.12-week12/"
+  title="Week 12 Worklog"
+  class="dd-item 
+        
+        
+        
+        "
+>
+  <a href="https://manh-25.github.io/fcj-workshop-report/en/1-worklog/1.12-week12/">
+     <b> 1.12. </b> Week 12 Worklog 
+    <i class="fas fa-check read-icon"></i>
+    
+  </a>
+   
+</li>
+     
+  </ul>
+  
+</li>
+           
+<li
+  data-nav-id="/en/2-proposal/"
+  title="Proposal"
+  class="dd-item 
+        
+        
+        
+        "
+>
+  <a href="https://manh-25.github.io/fcj-workshop-report/en/2-proposal/">
+     <b> 2. </b> Proposal 
+    <i class="fas fa-check read-icon"></i>
+    
+  </a>
+   
+</li>
+           
+<li
+  data-nav-id="/en/3-blogstranslated/"
+  title="Translated Blogs"
+  class="dd-item 
+        parent
+        
+        
+        "
+>
+  <a href="https://manh-25.github.io/fcj-workshop-report/en/3-blogstranslated/">
+     <b> 3. </b> Translated Blogs 
+    <i class="fas fa-check read-icon"></i>
+    
+  </a>
+   
+  <ul>
+          
+            
+<li
+  data-nav-id="/en/3-blogstranslated/3.1-blog1/"
+  title="Blog 1"
+  class="dd-item 
+        
+        
+        
+        "
+>
+  <a href="https://manh-25.github.io/fcj-workshop-report/en/3-blogstranslated/3.1-blog1/">
+     <b> 3.1. </b> Blog 1 
+    <i class="fas fa-check read-icon"></i>
+    
+  </a>
+   
+</li>
+    
+            
+<li
+  data-nav-id="/en/3-blogstranslated/3.2-blog2/"
+  title="Blog 2"
+  class="dd-item 
+        
+        active
+        
+        "
+>
+  <a href="https://manh-25.github.io/fcj-workshop-report/en/3-blogstranslated/3.2-blog2/">
+     <b> 3.2. </b> Blog 2 
+    <i class="fas fa-check read-icon"></i>
+    
+  </a>
+   
+</li>
+    
+            
+<li
+  data-nav-id="/en/3-blogstranslated/3.3-blog3/"
+  title="Blog 3"
+  class="dd-item 
+        
+        
+        
+        "
+>
+  <a href="https://manh-25.github.io/fcj-workshop-report/en/3-blogstranslated/3.3-blog3/">
+     <b> 3.3. </b> Blog 3 
+    <i class="fas fa-check read-icon"></i>
+    
+  </a>
+   
+</li>
+     
+  </ul>
+  
+</li>
+           
+<li
+  data-nav-id="/en/4-eventparticipated/"
+  title="Events Participated"
+  class="dd-item 
+        
+        
+        
+        "
+>
+  <a href="https://manh-25.github.io/fcj-workshop-report/en/4-eventparticipated/">
+     <b> 4. </b> Events Participated 
+    <i class="fas fa-check read-icon"></i>
+    
+  </a>
+   
+  <ul>
+          
+            
+<li
+  data-nav-id="/en/4-eventparticipated/4.1-event1/"
+  title="Event 1"
+  class="dd-item 
+        
+        
+        
+        "
+>
+  <a href="https://manh-25.github.io/fcj-workshop-report/en/4-eventparticipated/4.1-event1/">
+     <b> 4.1. </b> Event 1 
+    <i class="fas fa-check read-icon"></i>
+    
+  </a>
+   
+</li>
+    
+            
+<li
+  data-nav-id="/en/4-eventparticipated/4.2-event2/"
+  title="Event 2"
+  class="dd-item 
+        
+        
+        
+        "
+>
+  <a href="https://manh-25.github.io/fcj-workshop-report/en/4-eventparticipated/4.2-event2/">
+     <b> 4.2. </b> Event 2 
+    <i class="fas fa-check read-icon"></i>
+    
+  </a>
+   
+</li>
+    
+            
+<li
+  data-nav-id="/en/4-eventparticipated/4.3-event3/"
+  title="Event 3"
+  class="dd-item 
+        
+        
+        
+        "
+>
+  <a href="https://manh-25.github.io/fcj-workshop-report/en/4-eventparticipated/4.3-event3/">
+     <b> 4.3. </b> Event 3 
+    <i class="fas fa-check read-icon"></i>
+    
+  </a>
+   
+</li>
+    
+            
+<li
+  data-nav-id="/en/4-eventparticipated/4.4-event4/"
+  title="Event 4"
+  class="dd-item 
+        
+        
+        
+        "
+>
+  <a href="https://manh-25.github.io/fcj-workshop-report/en/4-eventparticipated/4.4-event4/">
+     <b> 4.4. </b> Event 4 
+    <i class="fas fa-check read-icon"></i>
+    
+  </a>
+   
+</li>
+    
+            
+<li
+  data-nav-id="/en/4-eventparticipated/4.5-event5/"
+  title="Event 5"
+  class="dd-item 
+        
+        
+        
+        "
+>
+  <a href="https://manh-25.github.io/fcj-workshop-report/en/4-eventparticipated/4.5-event5/">
+     <b> 4.5. </b> Event 5 
+    <i class="fas fa-check read-icon"></i>
+    
+  </a>
+   
+</li>
+    
+            
+<li
+  data-nav-id="/en/4-eventparticipated/4.6-event6/"
+  title="Event 6"
+  class="dd-item 
+        
+        
+        
+        "
+>
+  <a href="https://manh-25.github.io/fcj-workshop-report/en/4-eventparticipated/4.6-event6/">
+     <b> 4.6. </b> Event 6 
+    <i class="fas fa-check read-icon"></i>
+    
+  </a>
+   
+</li>
+     
+  </ul>
+  
+</li>
+           
+<li
+  data-nav-id="/en/5-workshop/"
+  title="Workshop"
+  class="dd-item 
+        
+        
+        
+        "
+>
+  <a href="https://manh-25.github.io/fcj-workshop-report/en/5-workshop/">
+     <b> 5. </b> Workshop 
+    <i class="fas fa-check read-icon"></i>
+    
+  </a>
+   
+  <ul>
+          
+            
+<li
+  data-nav-id="/en/5-workshop/5.1-workshop-overview/"
+  title="Overview"
+  class="dd-item 
+        
+        
+        
+        "
+>
+  <a href="https://manh-25.github.io/fcj-workshop-report/en/5-workshop/5.1-workshop-overview/">
+     <b> 5.1 </b> Overview 
+    <i class="fas fa-check read-icon"></i>
+    
+  </a>
+   
+</li>
+    
+            
+<li
+  data-nav-id="/en/5-workshop/5.2-prerequiste/"
+  title="Preparation Steps"
+  class="dd-item 
+        
+        
+        
+        "
+>
+  <a href="https://manh-25.github.io/fcj-workshop-report/en/5-workshop/5.2-prerequiste/">
+     <b> 5.2 </b> Preparation Steps 
+    <i class="fas fa-check read-icon"></i>
+    
+  </a>
+   
+</li>
+    
+            
+<li
+  data-nav-id="/en/5-workshop/5.3-infrastructure/"
+  title="Infrastructure Setup"
+  class="dd-item 
+        
+        
+        
+        "
+>
+  <a href="https://manh-25.github.io/fcj-workshop-report/en/5-workshop/5.3-infrastructure/">
+     <b> 5.3. </b> Infrastructure Setup 
+    <i class="fas fa-check read-icon"></i>
+    
+  </a>
+   
+  <ul>
+          
+            
+<li
+  data-nav-id="/en/5-workshop/5.3-infrastructure/5.3.1-amazon-s3-bucket/"
+  title="Create Amazon S3 Bucket"
+  class="dd-item 
+        
+        
+        
+        "
+>
+  <a href="https://manh-25.github.io/fcj-workshop-report/en/5-workshop/5.3-infrastructure/5.3.1-amazon-s3-bucket/">
+     <b> 5.3.1. </b> Create Amazon S3 Bucket 
+    <i class="fas fa-check read-icon"></i>
+    
+  </a>
+   
+</li>
+    
+            
+<li
+  data-nav-id="/en/5-workshop/5.3-infrastructure/5.3.2-dynamodb/"
+  title="Create DynamoDB Tables"
+  class="dd-item 
+        
+        
+        
+        "
+>
+  <a href="https://manh-25.github.io/fcj-workshop-report/en/5-workshop/5.3-infrastructure/5.3.2-dynamodb/">
+     <b> 5.3.2. </b> Create DynamoDB Tables 
+    <i class="fas fa-check read-icon"></i>
+    
+  </a>
+   
+</li>
+     
+  </ul>
+  
+</li>
+    
+            
+<li
+  data-nav-id="/en/5-workshop/5.4-backend/"
+  title="Building the Backend (Lambda)"
+  class="dd-item 
+        
+        
+        
+        "
+>
+  <a href="https://manh-25.github.io/fcj-workshop-report/en/5-workshop/5.4-backend/">
+     <b> 5.4. </b> Building the Backend (Lambda) 
+    <i class="fas fa-check read-icon"></i>
+    
+  </a>
+   
+  <ul>
+          
+            
+<li
+  data-nav-id="/en/5-workshop/5.4-backend/5.4.1-ragsearch/"
+  title="Create Lambda RAG Search"
+  class="dd-item 
+        
+        
+        
+        "
+>
+  <a href="https://manh-25.github.io/fcj-workshop-report/en/5-workshop/5.4-backend/5.4.1-ragsearch/">
+     <b> 5.4.1. </b> Create Lambda RAG Search 
+    <i class="fas fa-check read-icon"></i>
+    
+  </a>
+   
+</li>
+    
+            
+<li
+  data-nav-id="/en/5-workshop/5.4-backend/5.4.2-other-lambdas/"
+  title="Create Auxiliary Lambdas"
+  class="dd-item 
+        
+        
+        
+        "
+>
+  <a href="https://manh-25.github.io/fcj-workshop-report/en/5-workshop/5.4-backend/5.4.2-other-lambdas/">
+     <b> 5.4.2. </b> Create Auxiliary Lambdas 
+    <i class="fas fa-check read-icon"></i>
+    
+  </a>
+   
+</li>
+    
+            
+<li
+  data-nav-id="/en/5-workshop/5.4-backend/5.4.3-api-secrets/"
+  title="API Gateway &amp; Secrets"
+  class="dd-item 
+        
+        
+        
+        "
+>
+  <a href="https://manh-25.github.io/fcj-workshop-report/en/5-workshop/5.4-backend/5.4.3-api-secrets/">
+     <b> 5.4.3. </b> API Gateway &amp; Secrets 
+    <i class="fas fa-check read-icon"></i>
+    
+  </a>
+   
+</li>
+     
+  </ul>
+  
+</li>
+    
+            
+<li
+  data-nav-id="/en/5-workshop/5.5-fullstack/"
+  title="Fullstack Deployment"
+  class="dd-item 
+        
+        
+        
+        "
+>
+  <a href="https://manh-25.github.io/fcj-workshop-report/en/5-workshop/5.5-fullstack/">
+     <b> 5.5. </b> Fullstack Deployment 
+    <i class="fas fa-check read-icon"></i>
+    
+  </a>
+   
+  <ul>
+          
+            
+<li
+  data-nav-id="/en/5-workshop/5.5-fullstack/5.5.1-backend-deploy/"
+  title="Deploy Serverless Backend"
+  class="dd-item 
+        
+        
+        
+        "
+>
+  <a href="https://manh-25.github.io/fcj-workshop-report/en/5-workshop/5.5-fullstack/5.5.1-backend-deploy/">
+     <b> 5.5.1. </b> Deploy Serverless Backend 
+    <i class="fas fa-check read-icon"></i>
+    
+  </a>
+   
+</li>
+    
+            
+<li
+  data-nav-id="/en/5-workshop/5.5-fullstack/5.5.2-frontend-amplify/"
+  title="Deploy Frontend (Amplify)"
+  class="dd-item 
+        
+        
+        
+        "
+>
+  <a href="https://manh-25.github.io/fcj-workshop-report/en/5-workshop/5.5-fullstack/5.5.2-frontend-amplify/">
+     <b> 5.5.2. </b> Deploy Frontend (Amplify) 
+    <i class="fas fa-check read-icon"></i>
+    
+  </a>
+   
+</li>
+     
+  </ul>
+  
+</li>
+    
+            
+<li
+  data-nav-id="/en/5-workshop/5.6-cleanup/"
+  title="Clean Up Resources"
+  class="dd-item 
+        
+        
+        
+        "
+>
+  <a href="https://manh-25.github.io/fcj-workshop-report/en/5-workshop/5.6-cleanup/">
+     <b> 5.6. </b> Clean Up Resources 
+    <i class="fas fa-check read-icon"></i>
+    
+  </a>
+   
+</li>
+     
+  </ul>
+  
+</li>
+           
+<li
+  data-nav-id="/en/6-self-evaluation/"
+  title="Self-Assessment"
+  class="dd-item 
+        
+        
+        
+        "
+>
+  <a href="https://manh-25.github.io/fcj-workshop-report/en/6-self-evaluation/">
+     <b> 6. </b> Self-Assessment 
+    <i class="fas fa-check read-icon"></i>
+    
+  </a>
+   
+</li>
+           
+<li
+  data-nav-id="/en/7-feedback/"
+  title="Feedback and Contributions"
+  class="dd-item 
+        
+        
+        
+        "
+>
+  <a href="https://manh-25.github.io/fcj-workshop-report/en/7-feedback/">
+     <b> 7. </b> Feedback and Contributions 
+    <i class="fas fa-check read-icon"></i>
+    
+  </a>
+   
+</li>
+    
+    </ul>
+
+     
+    <section id="shortcuts">
+      <h3>
+        More
+      </h3>
+      <ul>
+        
+        <li>
+          <a class="padding" href="https://www.facebook.com/groups/awsstudygroupfcj/"
+            ><i class='fab fa-facebook'></i> AWS Study Group</a
+          >
+        </li>
+        
+      </ul>
+    </section>
+     
+    <section id="prefooter">
+      <hr />
+      <ul>
+        
+        <li>
+          <a class="padding">
+            <i class="fas fa-language fa-fw"></i>
+            <div class="select-style">
+              <select id="select-language" onchange="location = this.value;">
+                       
+                <option
+                  id="en"
+                  value="https://manh-25.github.io/fcj-workshop-report/en/3-blogstranslated/3.2-blog2/"
+                  selected
+                >
+                  English
+                </option>
+                            
+                <option
+                  id="vi"
+                  value="https://manh-25.github.io/fcj-workshop-report/vi/3-blogstranslated/3.2-blog2/"
+                >
+                  Tiếng Việt
+                </option>
+                   
+              </select>
+              <svg
+                version="1.1"
+                id="Capa_1"
+                xmlns="http://www.w3.org/2000/svg"
+                xmlns:xlink="http://www.w3.org/1999/xlink"
+                x="0px"
+                y="0px"
+                width="255px"
+                height="255px"
+                viewBox="0 0 255 255"
+                style="enable-background: new 0 0 255 255"
+                xml:space="preserve"
+              >
+                <g>
+                  <g id="arrow-drop-down">
+                    <polygon points="0,63.75 127.5,191.25 255,63.75 		" />
+                  </g>
+                </g>
+              </svg>
+            </div>
+          </a>
+        </li>
+         
+        <li>
+          <a class="padding" href="#" data-clear-history-toggle=""
+            ><i class="fas fa-history fa-fw"></i> Clear History</a
+          >
+        </li>
+        
+      </ul>
+    </section>
+    
+    <section id="footer"><left>
+    
+    <b> Workshop</b> <br>
+    <img src="https://hitwebcounter.com/counter/counter.php?page=7920860&style=0038&nbdigits=9&type=page&initCount=0"
+        title="Migrate" Alt="web counter" border="0" /></a> <br>
+    <b> <a href="https://cloudjourney.awsstudygroup.com/">Cloud Journey</a></b> <br>
+    <img src="https://hitwebcounter.com/counter/counter.php?page=7830807&style=0038&nbdigits=9&type=page&initCount=0"
+        title="Total CLoud Journey" Alt="web counter" border="0" />
+
+</left>
+<left>
+    <br>
+    <br>
+    <b>Last Updated</b><br>
+    <i>
+        <span id="lastUpdated" style="color:orange;"></span>
+    </i>
+
+    <script>
+        
+        const today = new Date();
+        
+        const formattedDate = today.toLocaleDateString('en-GB');
+        
+        document.getElementById('lastUpdated').textContent = formattedDate;
+    </script>
+</left>
+<left>
+    <br>
+    <br>
+    <b> Team </b> <br>
+
+    <i> <a href="https://www.facebook.com/groups/660548818043427" style="color:orange">First Cloud Journey </a> <br>
+
+    </i>
+</left>
+
+<script async defer src="https://buttons.github.io/buttons.js"></script></section>
+  </div>
+</nav>
+
+
+
+
+        <section id="body">
+        <div id="overlay"></div>
+        <div class="padding highlightable">
+              
+              <div>
+                <div id="top-bar">
+                
+                
+                <div id="breadcrumbs" itemscope="" itemtype="http://data-vocabulary.org/Breadcrumb">
+                    <span id="sidebar-toggle-span">
+                        <a href="#" id="sidebar-toggle" data-sidebar-toggle="">
+                          <i class="fas fa-bars"></i>
+                        </a>
+                    </span>
+                  
+                  <span id="toc-menu"><i class="fas fa-list-alt"></i></span>
+                  
+                  <span class="links">
+                 
+                 
+                    
+          
+          
+            
+            
+          
+          
+            
+            
+          
+          
+            <a href='https://manh-25.github.io/fcj-workshop-report/en/'>Internship Report</a> > <a href='https://manh-25.github.io/fcj-workshop-report/en/3-blogstranslated/'>Translated Blogs</a> > Blog 2
+          
+        
+          
+        
+          
+        
+                 
+                  </span>
+                </div>
+                
+                    <div class="progress">
+  <div class="wrapper"><nav id="TableOfContents">
+  <ul>
+    <li>
+      <ul>
+        <li><a href="#aws-nitro-system">AWS Nitro System</a></li>
+        <li><a href="#aws-key-management-service">AWS Key Management Service</a></li>
+        <li><a href="#amazon-inspector">Amazon Inspector</a></li>
+        <li><a href="#amazon-guardduty">Amazon GuardDuty</a></li>
+        <li><a href="#aws-certificate-manager">AWS Certificate Manager</a></li>
+        <li><a href="#aws-shield">AWS Shield</a></li>
+        <li><a href="#aws-cloudtrail">AWS CloudTrail</a></li>
+        <li><a href="#conclusion">Conclusion</a></li>
+        <li><a href="#resources"><strong>Resources</strong></a></li>
+      </ul>
+    </li>
+  </ul>
+</nav></div>
+</div>
+
+                
+              </div>
+            </div>
+            
+        <div id="head-tags">
+        
+        </div>
+        
+        <div id="body-inner">
+          
+            <h1>
+              
+              Blog 2
+            </h1>
+          
+
+        
+
+
+
+	<h1 id="overview-of-security-services-available-in-aws-dedicated-local-zones">Overview of security services available in AWS Dedicated Local Zones</h1>
+<p>by Lakshmi VP và Enrico Liguori | on 10 SEP 2025 | in <a href="https://aws.amazon.com/blogs/security/category/learning-levels/intermediate-200/">Intermediate (200)</a>, <a href="https://aws.amazon.com/blogs/security/category/security-identity-compliance/">Security, Identity, &amp; Compliance</a>, <a href="https://aws.amazon.com/blogs/security/category/post-types/technical-how-to/">Technical How-to</a> | <a href="https://aws.amazon.com/blogs/security/overview-of-security-services-available-in-aws-dedicated-local-zones/">Permalink</a></p>
+<p>When modernizing applications, customers in regulated industries like government, financial, and research face a critical challenge: how to transform their systems while meeting strict digital sovereignty and security compliance requirements. A common misconception tied to this is that data must be moved to an AWS Region to fully use <a href="https://aws.amazon.com/">Amazon Web Services (AWS)</a> security services.</p>
+<p>In this blog post, we dispel that misconception by addressing how to use the following Region-based AWS security services while keeping your data within <a href="https://aws.amazon.com/dedicatedlocalzones/">AWS Dedicated Local Zones</a>.</p>
+<ul>
+<li>AWS Nitro System provides foundational security</li>
+<li><a href="https://aws.amazon.com/kms">AWS Key Management Service (AWS KMS)</a> and <a href="https://aws.amazon.com/acm">AWS Certificate Manager (ACM)</a> enable robust encryption</li>
+<li><a href="https://aws.amazon.com/inspector">Amazon Inspector</a>, <a href="https://aws.amazon.com/guardduty/">Amazon GuardDuty</a>, and <a href="https://aws.amazon.com/shield">AWS Shield</a> work together to help protect workloads</li>
+<li><a href="https://aws.amazon.com/cloudtrail">AWS CloudTrail</a> maintains governance through monitoring and auditing</li>
+</ul>
+<p>Dedicated Local Zones are AWS-managed on-premises infrastructure configured for your exclusive use. They help meet specific regulatory requirements while providing cloud benefits such as elasticity, scalability, and pay-as-you-grow pricing. You can place data in your chosen location and use it with enhanced security and governance features provided by AWS to monitor and control application access while maintaining data isolation, in-country data residency, digital sovereignty, and meeting compliance requirements.</p>
+<h3 id="aws-nitro-system">AWS Nitro System</h3>
+<p>Many organizations with strict compliance and data sovereignty requirements are understandably hesitant about moving confidential workloads to the cloud. Their concerns are legitimate and specific: they need a solution that provides independently verifiable protection and isolation from data access by privileged parties, including cloud provider personnel. These organizations also require assurance that unauthorized data access through the cloud control plane is technically impossible, not just contractually prohibited.</p>
+<p>Perhaps most critically, they need side-channel protection to help make sure that sensitive data cannot leak through memory or other means to other hypervisor tenants sharing the same physical infrastructure. Traditional cloud security approaches often rely on operational controls and promises rather than technical impossibility, which doesn’t meet the stringent requirements these organizations face.</p>
+<p>The <a href="https://aws.amazon.com/ec2/nitro/">AWS Nitro System</a>, which is the foundation of AWS next generation <a href="https://aws.amazon.com/ec2">Amazon Elastic Compute Cloud (Amazon EC2)</a> instances that run in a Dedicated Local Zone and its parent Region, addresses each of these concerns through its architecture. This purpose-built combination of specialized hardware and software creates a secure enclave that shields your data from unauthorized access during processing on EC2 instances.</p>
+<p>The EC2 instances that run in your Dedicated Local Zones are based on AWS Nitro System, which is designed to provide robust security for compute workloads. It uses specialized hardware and software components to help protect your data from unauthorized access during processing on Amazon EC2.</p>
+<p>The three key components of Nitro System include a purpose-built Nitro cards, the Nitro Security Chip, and a Nitro Hypervisor. Together, these three components are <a href="https://docs.aws.amazon.com/whitepapers/latest/security-design-of-aws-nitro-system/security-design-of-aws-nitro-system.html">designed to enforce restrictions</a> and provide physical and logical security boundaries so that no one, including AWS employees, can access customer workloads or data running on Amazon EC2 without your explicit authorization.</p>
+<p>The <a href="https://docs.aws.amazon.com/whitepapers/latest/security-design-of-aws-nitro-system/security-design-of-aws-nitro-system.html">Nitro System whitepaper</a> details how the Nitro System, by design, removes the possibility of administrator access to an EC2 instance, the overall passive communications design of the Nitro System, and the Nitro System change management process. The security design of the Nitro System has also been independently validated by the NCC Group in a <a href="https://aws.amazon.com/vi/blogs/compute/aws-nitro-system-gets-independent-affirmation-of-its-confidential-compute-capabilities/">public report</a>.</p>
+<h3 id="aws-key-management-service">AWS Key Management Service</h3>
+<p>Working with customers, we’ve noticed that one of the most persistent sources of confusion and concern isn’t just about whether their data is encrypted, but about who controls the keys that protect that encryption. Many organizations struggle with a fundamental tension: they want the operational benefits of cloud computing, but they also need to maintain strict control over their encryption keys to meet compliance requirements.</p>
+<p>This concern is particularly acute for organizations in regulated industries, which often ask pointed questions like “Where exactly are my encryption keys stored?” and “Who can access my keys?” <a href="https://aws.amazon.com/kms/">AWS KMS</a> addresses this by offering multiple approaches to key management, each designed for different security and operational requirements. The service provides centralized control over the lifecycle and permissions of encryption keys, so you can create new keys whenever needed and control key management access separate from key policies</p>
+<p>By default, Dedicated Local Zones customers can use the integration with AWS KMS in the parent Region to store and control encryption keys. You can then use these encryption keys to encrypt your data stored <a href="https://aws.amazon.com/vi/dedicatedlocalzones/features/">locally in Amazon EBS, and Amazon S3 in the Dedicated Local Zones</a>.</p>
+<p>If your use cases require an external encryption key store to maintain strict data sovereignty requirements, then the combination of Dedicated Local Zones and an <a href="https://docs.aws.amazon.com/kms/latest/developerguide/keystore-external.html">AWS KMS external key store</a> can provide a robust solution.</p>
+<p>Using an external key store in Dedicated Local Zones, you can host the external hardware security module (HSM) that stores your encryption keys on-premises or colocated with your other infrastructure. By doing this, you maintain full control over the physical security and management of the HSM, while benefiting from the low-latency access and data processing capabilities of Dedicated Local Zones.</p>
+<p>The main components of AWS KMS external key store architecture are:</p>
+<ul>
+<li><strong>XKS proxy server:</strong> You provision an external key store proxy (XKS proxy) server within your on-premises data center (as shown in Figure 1) or within the Dedicated Local Zones. The role of the XKS proxy is to act as the intermediary between AWS KMS and your on-premises HSM. The XKS proxy must be registered as target of a <a href="https://aws.amazon.com/elasticloadbalancing/application-load-balancer/">Network Load Balancer (NLB)</a> in Region, this means that if it’s hosted on your on-premises data center, then NLB <a href="https://aws.amazon.com/vpc">Amazon Virtual Private Cloud (Amazon VPC)</a> must have private connectivity to the on-premises network through a site-to-site VPN or <a href="https://aws.amazon.com/directconnect">AWS Direct Connect</a> connection.</li>
+<li><strong>On-premises HSM:</strong> You configure your on-premises HSM to securely store the root encryption keys that will be used to protect your data encryption keys.</li>
+<li><strong>External key store:</strong> You create an external key store resource in AWS KMS, which maps to your on-premises HSM through the XKS proxy.</li>
+</ul>
+<img src="https://manh-25.github.io/fcj-workshop-report/images/3-Blog/3.2-Blog2/fig-1.png" width="800">
+<p><em>Figure 1: AWS KMS external key store trong một Dedicated Local Zone</em></p>
+<p>The workflow is as follows:</p>
+<ol>
+<li><a href="https://aws.amazon.com/s3/">Amazon Simple Storage Service (Amazon S3)</a> or <a href="https://aws.amazon.com/ebs">Amazon Elastic Block Store (Amazon EBS)</a> deployed locally in the Dedicated Local Zones needs to encrypt data, it requests AWS KMS to generate a new data encryption key.</li>
+<li>AWS KMS sends a request to the XKS proxy, which communicates with your on-premises HSM to generate the root key material.</li>
+<li>AWS KMS uses this root key to encrypt the data encryption key before returning it to the requesting service and stores the encrypted data encryption key alongside the encrypted data in Amazon S3 or Amazon EBS.</li>
+<li>For future encrypt/decrypt operations, the AWS service uses the previously generated and AWS KMS-encrypted data encryption key, without needing to interact with the on-premises HSM.</li>
+</ol>
+<p><strong>Note</strong>: The on-premises HSM only participates in the initial root key generation to protect the data encryption key, not in the high-volume encrypt/decrypt operations on the data itself.</p>
+<p>This architecture delivers two key benefits:</p>
+<ul>
+<li>You maintain complete control of your encryption keys by storing them in your data center, helping you meet security compliance requirements.</li>
+<li>Dedicated Local Zones keep your data isolated in your chosen location, providing low latency for your users.</li>
+</ul>
+<p>It’s important to note that using an AWS KMS external key store requires you to manage additional operational tasks beyond standard AWS KMS. To maintain continuous access to your encrypted data, you must provide 24/7 availability of your on-premises HSM, monitor XKS proxy infrastructure performance, implement robust security controls, and create backup and recovery procedures.</p>
+<p>Because system outages can prevent access to your encrypted data, we recommend that you develop detailed operational runbooks, set up comprehensive monitoring, test your recovery procedures regularly, and maintain redundant systems where possible.</p>
+<p>For more information about the interactions between AWS KMS and the external key store, see <a href="https://aws.amazon.com/blogs/aws/announcing-aws-kms-external-key-store-xks/">Announcing AWS KMS External Key Store (XKS)</a>.</p>
+<h3 id="amazon-inspector">Amazon Inspector</h3>
+<p>Another common concern we hear from organizations evaluating Dedicated Local Zones is whether they’ll need to compromise on security capabilities to maintain data residency. The reality is that AWS security services running in a Region, such as Amazon Inspector, are specifically designed to provide comprehensive protection while respecting your data location requirements.</p>
+<p>Organizations running regulated applications in Dedicated Local Zones require robust protection from zero-day vulnerabilities, prioritized patch remediation, and automated vulnerability management to meet compliance requirements. Amazon Inspector addresses these needs by continuously scanning your workloads to detect software vulnerabilities and unintended network exposure without requiring data movement from your chosen location.</p>
+<p>Amazon Inspector helps protect your workloads through two distinct scanning modes: hybrid scanning and agent-based scanning. However, for the context of this blog, let’s consider only agent-based scanning mode.</p>
+<p>To securely meet data residency requirements in Dedicated Local Zones, enable agent-based scanning mode on <a href="https://docs.aws.amazon.com/inspector/latest/user/scanning-ec2.html#agent-based">AWS Systems Manager (AWS SSM)-managed instances</a> in your account. It’s the default mode for new accounts offering enhanced security through continuous scanning, immediately responding to new common vulnerabilities and exposures (CVEs) and instance changes. It also enables deep inspection capabilities for eligible instances, providing comprehensive vulnerability assessment.</p>
+<p>The reference architecture in Figure 2 shows:</p>
+<ul>
+<li>Amazon Inspector agent running on AWS SSM managed instances, keeping your application data within Dedicated Local Zones.</li>
+<li>Amazon Inspector evaluates and generates <a href="https://docs.aws.amazon.com/inspector/latest/user/findings-types.html">findings</a> for detected vulnerabilities.</li>
+</ul>
+<img src="https://manh-25.github.io/fcj-workshop-report/images/3-Blog/3.2-Blog2/fig-2.png" width="1000">
+<p><em>Figure 2: Amazon Inspector trong Dedicated Local Zones</em></p>
+<h3 id="amazon-guardduty">Amazon GuardDuty</h3>
+<p>Maintaining data sovereignty with Dedicated Local Zones doesn’t mean sacrificing advanced security capabilities. <a href="https://aws.amazon.com/guardduty/">GuardDuty</a> demonstrates how sophisticated threat detection can operate effectively while honoring strict data residency requirements.</p>
+<p>Protecting your AI workloads from ransomware and advanced security threats requires an AI and machine learning (AL/ML)-integrated threat intelligence solution that can detect suspicious activity and respond proactively. GuardDuty uses AI/ML-based threat detection and integrated threat intelligence from AWS and leading third parties to protect your AWS accounts, workloads, and data. It continuously monitors malicious activity, delivers detailed security findings, and you can use the information it provides to respond quickly to threats.</p>
+<p>With <a href="https://docs.aws.amazon.com/guardduty/latest/ug/kubernetes-protection.html">GuardDuty EKS Protection</a>, monitors Kubernetes audit logs to detect threats. The key point to note is that <a href="https://aws.amazon.com/vi/compliance/data-privacy-faq/#topic-1">your data is stored in your chosen location</a> and the parent Region only processes log data.</p>
+<p><a href="https://docs.aws.amazon.com/guardduty/latest/ug/runtime-monitoring.html">GuardDuty Runtime Monitoring</a> observes and analyzes operating system, networking, and file events to detect potential threats in your AWS workloads. The parent Region receives only threat reports while Dedicated Local Zones retain your data.</p>
+<p>The reference architecture in Figure 3 shows how GuardDuty helps protect your data in a Dedicated Local Zones:</p>
+<ol>
+<li>GuardDuty monitors EC2 instances while your data stays in Dedicated Local Zones.</li>
+<li>GuardDuty analyzes data sources from <a href="https://aws.amazon.com/cloudtrail">AWS CloudTrail</a> event logs, management events, and Amazon VPC flow logs that your AWS account captures in the Region.</li>
+</ol>
+<img src="https://manh-25.github.io/fcj-workshop-report/images/3-Blog/3.2-Blog2/fig-3.png" width="1000">
+<p><em>Figure 3: Amazon GuardDuty trong Dedicated Local Zones</em></p>
+<h3 id="aws-certificate-manager">AWS Certificate Manager</h3>
+<p>Organizations frequently express concern about certificate management complexity when deploying applications in Dedicated Local Zones. <a href="https://docs.aws.amazon.com/acm/latest/userguide/acm-overview.html">AWS Certificate Manager (ACM)</a>, which operates in the parent Region, addresses these challenges by serving as the primary service that customers use to provision, manage, and deploy certificates for use in both public-facing and private Dedicated Local Zones workloads.</p>
+<p>ACM integrates seamlessly with ALBs in Dedicated Local Zones to manage your complete certificate lifecycle, as shown in Figure 4.</p>
+<img src="https://manh-25.github.io/fcj-workshop-report/images/3-Blog/3.2-Blog2/fig-4.png" width="1000">
+<p><em>Figure 4: ACM trong Dedicated Local Zones</em></p>
+<p>Follow these steps to implement TLS certificates in Dedicated Local Zones:</p>
+<ol>
+<li>Provision or import certificates through ACM in the parent Region.</li>
+<li>Associate your certificates with ALB HTTPS listeners in Dedicated Local Zones to enable secure, low-latency SSL/TLS termination near your users.</li>
+</ol>
+<p>ACM renews certificates automatically, avoids manual management tasks, and maintains continuous HTTPS service availability. This integration delivers enterprise-grade security with your data residing locally in Dedicated Local Zones. It also provides enhanced performance and reduced latency through proximity to users.</p>
+<h3 id="aws-shield">AWS Shield</h3>
+<p>Business-critical applications in Dedicated Local Zones need maximum availability and responsiveness. <a href="https://aws.amazon.com/shield/">AWS Shield</a> Standard, a managed distributed denial of service (DDoS) protection service that runs at the AWS edge, automatically helps protect your applications by detecting and mitigating network (Layer 3) and transport (Layer 4) DDoS attacks even before they reach your workloads.</p>
+<h3 id="aws-cloudtrail">AWS CloudTrail</h3>
+<p>A common concern when deploying workloads in Dedicated Local Zones is whether organizations can maintain the same level of governance and compliance oversight they expect from traditional AWS deployments. CloudTrail demonstrates how comprehensive auditing capabilities can extend seamlessly across distributed infrastructure while respecting data residency requirements.</p>
+<p><a href="https://aws.amazon.com/cloudtrail">CloudTrail</a>, running in the parent Region, enables governance, compliance, operational auditing, and risk auditing of your AWS account providing you aggregated and consolidated record of multisource events in a single place. This includes a detailed history of AWS API calls for your account, including API calls made using the AWS Management Console, the AWS SDKs, the command line tools, and higher-level AWS services used by the applications running in your Dedicated Local Zones. Only the logs are stored in the parent Region, while your data remains within the Dedicate Local Zones. AWS CloudTrail helps you to enable operational and risk auditing, governance, and compliance of your AWS accounts.</p>
+<h3 id="conclusion">Conclusion</h3>
+<p>Dedicated Local Zones provide a robust solution for running regulated workloads for all industries, to meet strict data residency and digital sovereignty. Through integrated security services like AWS Nitro System, AWS KMS External Key Store, ACM, AWS Shield, Amazon GuardDuty, Amazon Inspector, and AWS CloudTrail, your organization can achieve stronger security compliance for their mission-critical applications running in AWS Dedicated Local Zones.</p>
+<p>To learn more about implementing these security solutions in your Dedicated Local Zones deployment, contact your AWS account team.</p>
+<p>If you have feedback about this post, submit comments in the Comments section below. If you have questions about this post, <a href="https://console.aws.amazon.com/support/home">contact AWS Support</a>.</p>
+<hr>
+<table>
+  <thead>
+      <tr>
+          <th style="text-align: left"><img src="https://manh-25.github.io/fcj-workshop-report/images/3-Blog/3.2-Blog2/author-1.png" width="200"></th>
+          <th style="text-align: left"><strong>Lakshmi VP</strong> - Lakshmi is a Solutions Architect at AWS WWPS-Canada and specializes in hybrid edge solutions—Outposts, Local Zones and Dedicated Local Zones. With over 16 years of global supporting various industries, Lakshmi is passionate about technology and practical solutions for customers. Outside work, she enjoys watching animated movies and hiking.</th>
+      </tr>
+  </thead>
+  <tbody>
+      <tr>
+          <td style="text-align: left"><img src="https://manh-25.github.io/fcj-workshop-report/images/3-Blog/3.2-Blog2/author-2.png" width="200"></td>
+          <td style="text-align: left"><strong>Enrico Liguori</strong> - Enrico is a Specialist Solutions Architect focused on networking and hybrid cloud. He works within the Worldwide Public Sector Solutions Architecture organization, where he leverages his expertise to design highly available, scalable, secure, and cost-effective networking and hybrid cloud solutions. When Enrico isn’t immersed in his professional responsibilities, he indulges in exploring the wonders of the underwater world through scuba diving.</td>
+      </tr>
+  </tbody>
+</table>
+<p>TAGS: <a href="https://aws.amazon.com/blogs/security/tag/digital-sovereignty/">Digital Sovereignty</a></p>
+<hr>
+<h3 id="resources"><strong>Resources</strong></h3>
+<p><a href="https://aws.amazon.com/security?sc_ichannel=ha&amp;sc_icampaign=acq_awsblogsb&amp;sc_icontent=security-resources">AWS Cloud Security</a><br>
+<a href="https://aws.amazon.com/compliance?sc_ichannel=ha&amp;sc_icampaign=acq_awsblogsb&amp;sc_icontent=security-resources">AWS Compliance</a><br>
+<a href="https://docs.aws.amazon.com/prescriptive-guidance/latest/security-reference-architecture/welcome.html?secd_ip5">AWS Security Reference Architecture</a><br>
+<a href="https://aws.amazon.com/architecture/security-identity-compliance">Best Practices</a><br>
+<a href="https://aws.amazon.com/compliance/data-protection/">Data Protection at AWS</a><br>
+<a href="https://aws.amazon.com/security/zero-trust/">Zero Trust on AWS</a><br>
+<a href="https://aws.amazon.com/security/cryptographic-computing/">Cryptographic Computing</a></p>
+
+
+
+
+
+<footer class=" footline" >
+	
+</footer>
+
+        
+        </div> 
+        
+
+      </div>
+
+    <div id="navigation">
+        
+        
+        
+        
+            
+            
+                
+                    
+                    
+                
+                
+
+                    
+                    
+                        
+                    
+                    
+
+                    
+                        
+            
+            
+                
+                    
+                        
+                        
+                    
+                
+                
+
+                    
+                    
+                        
+                    
+                    
+
+                    
+                        
+            
+            
+                
+                    
+                
+                
+
+                    
+                    
+                    
+
+                    
+            
+        
+                    
+                        
+            
+            
+                
+                    
+                
+                
+
+                    
+                    
+                    
+
+                    
+            
+        
+                    
+                        
+            
+            
+                
+                    
+                
+                
+
+                    
+                    
+                    
+
+                    
+            
+        
+                    
+                        
+            
+            
+                
+                    
+                
+                
+
+                    
+                    
+                    
+
+                    
+            
+        
+                    
+                        
+            
+            
+                
+                    
+                
+                
+
+                    
+                    
+                    
+
+                    
+            
+        
+                    
+                        
+            
+            
+                
+                    
+                
+                
+
+                    
+                    
+                    
+
+                    
+            
+        
+                    
+                        
+            
+            
+                
+                    
+                
+                
+
+                    
+                    
+                    
+
+                    
+            
+        
+                    
+                        
+            
+            
+                
+                    
+                
+                
+
+                    
+                    
+                    
+
+                    
+            
+        
+                    
+                        
+            
+            
+                
+                    
+                
+                
+
+                    
+                    
+                    
+
+                    
+            
+        
+                    
+                        
+            
+            
+                
+                    
+                
+                
+
+                    
+                    
+                    
+
+                    
+            
+        
+                    
+                        
+            
+            
+                
+                    
+                
+                
+
+                    
+                    
+                    
+
+                    
+            
+        
+                    
+                        
+            
+            
+                
+                    
+                
+                
+
+                    
+                    
+                    
+
+                    
+            
+        
+                    
+            
+        
+                    
+                        
+            
+            
+                
+                    
+                
+                
+
+                    
+                    
+                    
+
+                    
+            
+        
+                    
+                        
+            
+            
+                
+                    
+                    
+                
+                
+
+                    
+                    
+                        
+                    
+                    
+
+                    
+                        
+            
+            
+                
+                    
+                        
+                        
+                    
+                
+                
+
+                    
+                    
+                    
+
+                    
+            
+        
+                    
+                        
+            
+            
+                
+                    
+                    
+                
+                
+
+                    
+                    
+                    
+
+                    
+            
+        
+                    
+                        
+            
+            
+                
+                    
+                        
+                        
+                    
+                
+                
+
+                    
+                    
+                    
+
+                    
+            
+        
+                    
+            
+        
+                    
+                        
+            
+            
+                
+                    
+                
+                
+
+                    
+                    
+                        
+                    
+                    
+
+                    
+                        
+            
+            
+                
+                    
+                
+                
+
+                    
+                    
+                    
+
+                    
+            
+        
+                    
+                        
+            
+            
+                
+                    
+                
+                
+
+                    
+                    
+                    
+
+                    
+            
+        
+                    
+                        
+            
+            
+                
+                    
+                
+                
+
+                    
+                    
+                    
+
+                    
+            
+        
+                    
+                        
+            
+            
+                
+                    
+                
+                
+
+                    
+                    
+                    
+
+                    
+            
+        
+                    
+                        
+            
+            
+                
+                    
+                
+                
+
+                    
+                    
+                    
+
+                    
+            
+        
+                    
+                        
+            
+            
+                
+                    
+                
+                
+
+                    
+                    
+                    
+
+                    
+            
+        
+                    
+            
+        
+                    
+                        
+            
+            
+                
+                    
+                
+                
+
+                    
+                    
+                        
+                    
+                    
+
+                    
+                        
+            
+            
+                
+                    
+                
+                
+
+                    
+                    
+                    
+
+                    
+            
+        
+                    
+                        
+            
+            
+                
+                    
+                
+                
+
+                    
+                    
+                    
+
+                    
+            
+        
+                    
+                        
+            
+            
+                
+                    
+                
+                
+
+                    
+                    
+                        
+                    
+                    
+
+                    
+                        
+            
+            
+                
+                    
+                
+                
+
+                    
+                    
+                    
+
+                    
+            
+        
+                    
+                        
+            
+            
+                
+                    
+                
+                
+
+                    
+                    
+                    
+
+                    
+            
+        
+                    
+            
+        
+                    
+                        
+            
+            
+                
+                    
+                
+                
+
+                    
+                    
+                        
+                    
+                    
+
+                    
+                        
+            
+            
+                
+                    
+                
+                
+
+                    
+                    
+                    
+
+                    
+            
+        
+                    
+                        
+            
+            
+                
+                    
+                
+                
+
+                    
+                    
+                    
+
+                    
+            
+        
+                    
+                        
+            
+            
+                
+                    
+                
+                
+
+                    
+                    
+                    
+
+                    
+            
+        
+                    
+            
+        
+                    
+                        
+            
+            
+                
+                    
+                
+                
+
+                    
+                    
+                        
+                    
+                    
+
+                    
+                        
+            
+            
+                
+                    
+                
+                
+
+                    
+                    
+                    
+
+                    
+            
+        
+                    
+                        
+            
+            
+                
+                    
+                
+                
+
+                    
+                    
+                    
+
+                    
+            
+        
+                    
+            
+        
+                    
+                        
+            
+            
+                
+                    
+                
+                
+
+                    
+                    
+                    
+
+                    
+            
+        
+                    
+            
+        
+                    
+                        
+            
+            
+                
+                    
+                
+                
+
+                    
+                    
+                    
+
+                    
+            
+        
+                    
+                        
+            
+            
+                
+                    
+                
+                
+
+                    
+                    
+                    
+
+                    
+            
+        
+                    
+            
+        
+        
+        
+
+
+	 
+	 
+		
+			<a class="nav nav-prev" href="https://manh-25.github.io/fcj-workshop-report/en/3-blogstranslated/3.1-blog1/" title="Blog 1"> <i class="fa fa-chevron-left"></i></a>
+		
+		
+			<a class="nav nav-next" href="https://manh-25.github.io/fcj-workshop-report/en/3-blogstranslated/3.3-blog3/" title="Blog 3" style="margin-right: 0px;"><i class="fa fa-chevron-right"></i></a>
+		
+	
+    </div>
+
+    </section>
+    
+    <div style="left: -1000px; overflow: scroll; position: absolute; top: -1000px; border: none; box-sizing: content-box; height: 200px; margin: 0px; padding: 0px; width: 200px;">
+      <div style="border: none; box-sizing: content-box; height: 200px; margin: 0px; padding: 0px; width: 200px;"></div>
+    </div>
+    <script src="https://manh-25.github.io/fcj-workshop-report/js/clipboard.min.js?1765289368"></script>
+    <script src="https://manh-25.github.io/fcj-workshop-report/js/perfect-scrollbar.min.js?1765289368"></script>
+    <script src="https://manh-25.github.io/fcj-workshop-report/js/perfect-scrollbar.jquery.min.js?1765289368"></script>
+    <script src="https://manh-25.github.io/fcj-workshop-report/js/jquery.sticky.js?1765289368"></script>
+    <script src="https://manh-25.github.io/fcj-workshop-report/js/featherlight.min.js?1765289368"></script>
+    <script src="https://manh-25.github.io/fcj-workshop-report/js/highlight.pack.js?1765289368"></script>
+    <script>hljs.initHighlightingOnLoad();</script>
+    <script src="https://manh-25.github.io/fcj-workshop-report/js/modernizr.custom-3.6.0.js?1765289368"></script>
+    <script src="https://manh-25.github.io/fcj-workshop-report/js/learn.js?1765289368"></script>
+    <script src="https://manh-25.github.io/fcj-workshop-report/js/hugo-learn.js?1765289368"></script>
+
+    <link href="https://manh-25.github.io/fcj-workshop-report/mermaid/mermaid.css?1765289368" rel="stylesheet" />
+    <script src="https://manh-25.github.io/fcj-workshop-report/mermaid/mermaid.js?1765289368"></script>
+    <script>
+        mermaid.initialize({ startOnLoad: true });
+    </script>
+    <script>
+  (function (i, s, o, g, r, a, m) {
+    i["GoogleAnalyticsObject"] = r;
+    ((i[r] =
+      i[r] ||
+      function () {
+        (i[r].q = i[r].q || []).push(arguments);
+      }),
+      (i[r].l = 1 * new Date()));
+    ((a = s.createElement(o)), (m = s.getElementsByTagName(o)[0]));
+    a.async = 1;
+    a.src = g;
+    m.parentNode.insertBefore(a, m);
+  })(
+    window,
+    document,
+    "script",
+    "https://www.google-analytics.com/analytics.js",
+    "ga",
+  );
+
+  ga("create", "UA-158079754-2", "auto");
+  ga("send", "pageview");
+</script>
+
+  </body>
+</html>
